@@ -1,0 +1,5 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Andrew Wiggins","Minnesota Timberwolves",2018-02-07,2017,3059319,1610612750,400975553,5,1,43,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-234,50,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-02-07,2017,3059319,1610612750,400975553,3,4,49,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-234,50,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-02-07,2017,3059319,1610612750,400975553,4,3,34,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-232,62,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-01,2016,3059319,1610612750,400899369,3,2,32,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-238,16,0,0.00,,0.00,0.00

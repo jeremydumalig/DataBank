@@ -1,0 +1,51 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Andrew Wiggins","Minnesota Timberwolves",2015-03-27,2014,3059319,1610612750,400579373,2,2,11,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",234,-8,0,4.50,"Smith, Josh",5.10,12.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-03-01,2017,3059319,1610612750,400975671,4,5,51,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",227,52,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-03,2017,3059319,1610612750,400975087,2,1,46,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",230,-12,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-12-05,2015,3059319,1610612750,400828181,3,7,15,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",225,7,0,0.80,"Aminu, Al-Farouq",9.40,13.90
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-10,2015,3059319,1610612750,400828444,1,3,22,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",228,31,0,0.90,"Williams, Deron",9.40,8.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-03-28,2015,3059319,1610612750,400828988,4,7,23,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",232,11,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-01-15,2016,3059319,1610612750,400900029,3,10,19,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",240,21,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-12,2017,3059319,1610612750,400975152,1,4,26,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",228,-4,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-07,2014,3059319,1610612750,400578823,1,0,03,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",230,86,0,1.10,"Bledsoe, Eric",11.30,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-02-10,2015,3059319,1610612750,400828684,2,5,57,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",240,31,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-03-20,2017,3059319,1610612750,400975806,3,7,52,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",226,4,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-03-20,2017,3059319,1610612750,400975806,1,9,19,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",232,0,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-12,2016,3059319,1610612750,400900221,3,4,48,1,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",225,38,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-12-18,2015,3059319,1610612750,400828279,3,2,26,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",232,70,0,1.20,"Gay, Rudy",6.30,5.60
+"Andrew Wiggins","Minnesota Timberwolves",2018-03-28,2017,3059319,1610612750,400975866,3,9,02,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",234,68,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-11-23,2016,3059319,1610612750,400899672,2,0,23,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",240,28,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-03-25,2015,3059319,1610612750,400828960,2,5,07,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",228,26,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-24,2016,3059319,1610612750,400900268,1,9,17,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,33,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-03-02,2017,3059319,1610612750,400975680,4,3,27,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",227,10,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2014-12-05,2014,3059319,1610612750,400578575,1,9,45,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,9,0,0.80,"Terry, Jason",5.30,18.20
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-19,2015,3059319,1610612750,400828513,2,3,25,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",235,26,10,8.30,"Davis, Anthony",5.40,5.30
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-16,2017,3059319,1610612750,400975395,1,5,36,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",223,-9,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-05,2017,3059319,1610612750,400975316,1,8,08,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",229,24,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-04-05,2017,3059319,1610612750,400975926,1,1,27,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",223,14,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-25,2016,3059319,1610612750,400900278,3,8,51,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",243,26,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,3,4,39,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",236,41,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-14,2017,3059319,1610612750,400975167,2,5,27,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",229,9,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-14,2017,3059319,1610612750,400975167,2,0,27,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",225,-20,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-11-08,2017,3059319,1610612750,400974914,1,7,06,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",229,-12,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-16,2017,3059319,1610612750,400975185,2,4,42,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,7,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-04,2016,3059319,1610612750,400900168,4,2,22,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",228,85,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-03-30,2016,3059319,1610612750,400900518,3,6,58,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",225,-1,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-04-06,2017,3059319,1610612750,400975936,2,3,23,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",236,37,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-11-17,2017,3059319,1610612750,400974975,2,6,39,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",230,46,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-11-22,2017,3059319,1610612750,400975012,3,0,57,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",232,10,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-03-24,2016,3059319,1610612750,400900475,2,4,25,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",230,-20,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-01,2017,3059319,1610612750,400975075,3,6,49,1,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",225,19,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-12-01,2017,3059319,1610612750,400975075,4,10,45,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",224,46,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-29,2017,3059319,1610612750,400975485,3,9,13,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",235,11,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-04-11,2017,3059319,1610612750,400975971,2,2,40,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",224,67,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2014-12-30,2014,3059319,1610612750,400578764,2,4,32,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",228,9,1,3.50,"Hayward, Gordon",6.30,16.80
+"Andrew Wiggins","Minnesota Timberwolves",2014-12-30,2014,3059319,1610612750,400578764,3,6,20,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",231,47,0,0.90,"Favors, Derrick",7.40,2.20
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-05,2014,3059319,1610612750,400578806,2,8,14,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",228,55,0,0.70,"Arthur, Darrell",7.30,2.20
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-05,2014,3059319,1610612750,400578806,4,7,01,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",231,9,0,0.90,"Chandler, Wilson",5.00,22.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-02-25,2014,3059319,1610612750,400579140,1,8,39,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",234,23,0,0.90,"Gortat, Marcin",18.20,17.20
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-31,2014,3059319,1610612750,400579003,3,0,49,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",228,50,0,1.80,"Marion, Shawn",4.10,18.10
+"Andrew Wiggins","Minnesota Timberwolves",2015-11-02,2015,3059319,1610612750,400827937,4,6,30,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",222,36,0,0.80,"Lillard, Damian",6.40,14.20
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-21,2014,0,1610612750,0,1,0,12,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",234,20,0,1.20,"Chandler, Tyson",13.80,4.80
+"Andrew Wiggins","Minnesota Timberwolves",2016-04-05,2015,3059319,1610612750,400829050,2,2,02,1,"Pullup Jump shot","3PT Field Goal",23,"Golden State Warriors",238,3,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-10-28,2015,3059319,1610612750,400827904,1,6,35,0,"Pullup Jump shot","2PT Field Goal",22,"Los Angeles Lakers",223,34,2,2.40,"Clarkson, Jordan",5.40,11.40

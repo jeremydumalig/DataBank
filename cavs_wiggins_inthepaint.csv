@@ -1,0 +1,21 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,3,11,21,1,"Driving Bank shot","2PT Field Goal",5,"Cleveland Cavaliers",-38,36,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-01,2016,3059319,1610612750,400899369,4,7,03,0,"Driving Hook Shot","2PT Field Goal",5,"Cleveland Cavaliers",9,51,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2014-12-23,2014,3059319,1610612750,400578708,1,2,00,0,"Driving Jump shot","2PT Field Goal",6,"Cleveland Cavaliers",42,50,1,1.70,"Thompson, Tristan",2.20,24.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-08,2017,3059319,1610612750,400975340,2,4,23,0,"Floating Jump shot","2PT Field Goal",6,"Cleveland Cavaliers",24,61,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,1,6,45,0,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",-6,51,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,1,5,59,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",64,26,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-02-07,2017,3059319,1610612750,400975553,4,1,28,1,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-23,76,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,3,3,08,1,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",42,13,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-25,2015,3059319,1610612750,400828554,4,2,36,1,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-32,33,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-25,2015,3059319,1610612750,400828554,3,9,18,1,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",35,38,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-08,2015,3059319,1610612750,400828430,3,5,56,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-24,65,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-08,2017,3059319,1610612750,400975340,3,5,09,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-2,44,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-31,2014,3059319,1610612750,400579003,2,9,36,1,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",-7,56,2,7.30,"Mozgov, Timofey",2.70,2.90
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-31,2014,3059319,1610612750,400579003,1,4,06,1,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",37,66,0,1.50,"Love, Kevin",4.80,19.50
+"Andrew Wiggins","Minnesota Timberwolves",2015-01-31,2014,3059319,1610612750,400579003,1,1,58,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-8,66,3,4.50,"Shumpert, Iman",2.90,12.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-01-08,2017,3059319,1610612750,400975340,2,4,21,0,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",-21,52,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2017-02-14,2016,3059319,1610612750,400900237,3,1,46,1,"Step Back Jump shot","2PT Field Goal",4,"Cleveland Cavaliers",-2,43,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2014-12-23,2014,3059319,1610612750,400578708,4,6,10,1,"Turnaround Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-38,63,1,1.10,"James, LeBron",1.60,13.00
+"Andrew Wiggins","Minnesota Timberwolves",2018-02-07,2017,3059319,1610612750,400975553,1,10,35,1,"Turnaround Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",8,79,0,0.00,,0.00,0.00
+"Andrew Wiggins","Minnesota Timberwolves",2016-01-25,2015,3059319,1610612750,400828554,2,6,10,0,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",-65,56,0,0.00,,0.00,0.00

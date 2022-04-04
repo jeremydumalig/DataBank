@@ -1,0 +1,654 @@
+LINEUPS,TEAM,GP,MIN,PTS,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,BLKA,PF,PFD,+/-
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .J. Poole",GSW,29,347,829,310,628,49.4,102,266,38.3,107,153,69.9,77,270,347,226,131,62,47,31,149,131,51
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,13,51,122,40,88,45.5,20,49,40.8,22,28,78.6,6,31,37,25,21,15,2,3,27,22,14
+".S. Curry, .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,12,38,99,37,66,56.1,15,33,45.5,10,13,76.9,6,19,25,22,9,8,4,3,20,15,7
+".S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole",GSW,11,86,211,78,163,47.9,30,78,38.5,25,33,75.8,22,63,85,52,18,14,11,8,28,35,41
+".S. Curry, .D. Green, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,11,32,82,29,64,45.3,15,36,41.7,9,12,75.0,7,23,30,24,4,9,3,7,12,14,17
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .K. Looney",GSW,10,81,198,70,152,46.1,28,66,42.4,30,39,76.9,19,55,74,39,26,25,8,9,33,29,18
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II",GSW,10,40,99,37,76,48.7,15,37,40.5,10,19,52.6,10,33,43,24,12,11,10,3,17,15,24
+".S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson",GSW,10,38,85,28,64,43.8,16,38,42.1,13,21,61.9,10,21,31,17,19,8,6,3,16,13,-5
+".N. Bjelica, .D. Green, .A. Wiggins, .G. Payton II, .J. Poole",GSW,10,29,54,21,53,39.6,3,20,15.0,9,10,90.0,4,19,23,16,8,7,1,2,18,7,-16
+".O. Porter Jr., .A. Wiggins, .K. Looney, .D. Lee, .J. Poole",GSW,10,24,46,17,41,41.5,3,17,17.6,9,9,100,5,17,22,7,7,5,1,3,8,7,0
+".O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,9,29,57,20,53,37.7,7,24,29.2,10,13,76.9,6,26,32,12,5,4,1,4,12,10,2
+".D. Green, .A. Wiggins, .K. Looney, .D. Lee, .J. Poole",GSW,9,28,51,21,45,46.7,5,19,26.3,4,7,57.1,3,19,22,13,9,4,4,2,9,8,-8
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .G. Payton II",GSW,8,48,130,49,95,51.6,18,45,40.0,14,15,93.3,12,34,46,34,13,17,4,2,17,18,22
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .J. Poole",GSW,8,44,123,43,86,50.0,21,42,50.0,16,20,80.0,9,41,50,31,9,6,7,3,16,17,50
+".D. Green, .O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Poole",GSW,8,34,86,29,62,46.8,13,26,50.0,15,20,75.0,7,34,41,20,12,9,3,3,14,16,29
+".S. Curry, .A. Wiggins, .K. Looney, .J. Toscano-Anderson, .J. Poole",GSW,8,22,51,19,45,42.2,8,22,36.4,5,7,71.4,12,8,20,12,6,5,1,3,9,6,-12
+".N. Bjelica, .A. Wiggins, .G. Payton II, .D. Lee, .J. Poole",GSW,8,16,40,14,31,45.2,7,16,43.8,5,6,83.3,3,14,17,12,4,2,2,1,6,7,10
+".S. Curry, .A. Wiggins, .K. Looney, .J. Poole, .J. Kuminga",GSW,8,15,38,13,31,41.9,6,16,37.5,6,8,75.0,4,12,16,8,4,2,2,0,10,10,4
+".A. Wiggins, .K. Looney, .D. Lee, .J. Poole, .J. Kuminga",GSW,8,14,32,10,20,50.0,4,10,40.0,8,10,80.0,5,8,13,7,5,1,1,0,7,6,-3
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .M. Moody",GSW,7,51,111,45,95,47.4,16,39,41.0,5,7,71.4,9,41,50,34,17,6,5,3,26,11,-5
+".S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II",GSW,7,43,100,38,82,46.3,15,32,46.9,9,13,69.2,8,34,42,28,12,9,5,0,20,11,12
+".K. Thompson, .O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole",GSW,7,35,92,33,68,48.5,13,32,40.6,13,21,61.9,14,27,41,21,10,9,2,3,15,12,11
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .D. Lee",GSW,7,13,16,7,26,26.9,2,14,14.3,0,0,0.0,3,9,12,4,8,0,1,1,7,3,-17
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .D. Lee",GSW,7,9,32,12,21,57.1,1,5,20.0,7,10,70.0,4,7,11,7,2,3,0,1,4,7,6
+".S. Curry, .N. Bjelica, .D. Green, .A. Wiggins, .J. Poole",GSW,7,9,28,10,18,55.6,5,11,45.5,3,4,75.0,2,8,10,8,2,0,0,2,1,2,5
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .D. Lee, .J. Poole",GSW,6,25,50,20,43,46.5,5,20,25.0,5,6,83.3,1,23,24,14,6,2,0,2,9,13,-4
+".S. Curry, .N. Bjelica, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson",GSW,6,20,46,18,39,46.2,7,18,38.9,3,4,75.0,8,17,25,14,8,4,0,1,6,10,16
+".S. Curry, .A. Wiggins, .K. Looney, .G. Payton II, .D. Lee",GSW,6,15,27,10,30,33.3,3,10,30.0,4,5,80.0,3,8,11,4,5,3,1,2,10,5,-11
+".D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,6,15,36,14,28,50.0,3,13,23.1,5,5,100,3,11,14,6,3,2,1,1,8,8,6
+".S. Curry, .N. Bjelica, .A. Wiggins, .J. Poole, .J. Kuminga",GSW,6,14,29,12,23,52.2,2,8,25.0,3,4,75.0,2,7,9,6,4,3,1,1,10,3,-12
+".S. Curry, .A. Wiggins, .K. Looney, .J. Poole, .M. Moody",GSW,6,11,23,7,15,46.7,3,6,50.0,6,6,100,2,9,11,2,5,0,1,3,9,4,-7
+".S. Curry, .N. Bjelica, .D. Green, .A. Wiggins, .G. Payton II",GSW,6,10,28,9,19,47.4,4,9,44.4,6,6,100,2,9,11,8,1,2,1,0,2,4,9
+".S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney, .D. Lee",GSW,6,6,13,4,9,44.4,1,3,33.3,4,8,50.0,0,3,3,1,2,0,2,0,1,4,-3
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .J. Kuminga",GSW,5,58,127,46,101,45.5,14,42,33.3,21,24,87.5,4,50,54,33,15,6,3,6,21,22,-9
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .G. Payton II",GSW,5,33,74,30,54,55.6,8,20,40.0,6,8,75.0,5,26,31,22,12,7,5,1,14,7,9
+".A. Iguodala, .S. Curry, .D. Green, .A. Wiggins, .D. Lee",GSW,5,22,51,15,36,41.7,10,22,45.5,11,12,91.7,1,13,14,13,7,5,2,4,8,9,6
+".A. Wiggins, .G. Payton II, .D. Lee, .J. Poole, .J. Kuminga",GSW,5,20,42,15,35,42.9,5,14,35.7,7,7,100,8,15,23,10,6,4,2,2,7,5,5
+".S. Curry, .D. Green, .A. Wiggins, .D. Lee, .J. Toscano-Anderson",GSW,5,19,39,14,29,48.3,4,16,25.0,7,8,87.5,3,16,19,10,8,1,0,0,11,7,-2
+".A. Wiggins, .K. Looney, .G. Payton II, .J. Poole, .M. Moody",GSW,5,12,28,11,22,50.0,3,7,42.9,3,4,75.0,1,8,9,5,1,0,1,1,5,4,-6
+".S. Curry, .N. Bjelica, .K. Thompson, .J. Poole, .J. Kuminga",GSW,5,12,35,13,26,50.0,2,9,22.2,7,9,77.8,6,10,16,10,4,2,0,2,5,6,8
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .D. Lee",GSW,5,10,27,10,19,52.6,4,10,40.0,3,4,75.0,1,11,12,4,2,1,1,1,2,2,11
+".D. Green, .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,5,9,24,7,14,50.0,4,7,57.1,6,6,100,1,10,11,5,4,0,1,0,4,6,9
+".S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Kuminga",GSW,5,9,17,6,18,33.3,3,7,42.9,2,3,66.7,3,6,9,4,2,3,0,0,3,1,-6
+".S. Curry, .A. Wiggins, .G. Payton II, .J. Poole, .J. Kuminga",GSW,5,8,15,6,15,40.0,2,8,25.0,1,4,25.0,0,6,6,5,1,1,0,2,3,3,-3
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Green, .G. Payton II",GSW,5,8,25,8,12,66.7,6,9,66.7,3,3,100,0,7,7,6,5,1,2,0,1,2,10
+".S. Curry, .D. Green, .A. Wiggins, .D. Lee, .J. Poole",GSW,5,7,24,9,16,56.3,4,8,50.0,2,2,100,1,6,7,6,2,3,1,0,3,1,12
+".S. Curry, .N. Bjelica, .A. Wiggins, .G. Payton II, .J. Poole",GSW,5,5,10,4,7,57.1,2,5,40.0,0,0,0.0,0,5,5,3,3,0,1,0,4,0,-7
+".K. Thompson, .D. Green, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,4,20,47,18,37,48.6,4,12,33.3,7,8,87.5,8,13,21,10,9,2,0,3,8,7,-5
+".N. Bjelica, .K. Thompson, .A. Wiggins, .J. Poole, .J. Kuminga",GSW,4,20,50,21,37,56.8,7,13,53.8,1,2,50.0,3,12,15,16,3,1,2,4,7,7,5
+".S. Curry, .N. Bjelica, .K. Thompson, .D. Lee, .J. Kuminga",GSW,4,18,43,17,39,43.6,4,17,23.5,5,6,83.3,3,16,19,12,3,2,2,4,8,5,-4
+".D. Green, .A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga",GSW,4,15,37,12,27,44.4,3,7,42.9,10,12,83.3,3,11,14,6,4,2,0,2,6,9,5
+".S. Curry, .N. Bjelica, .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,4,14,42,17,30,56.7,5,10,50.0,3,3,100,2,11,13,8,3,6,0,1,6,3,9
+".S. Curry, .N. Bjelica, .O. Porter Jr., .J. Poole, .J. Kuminga",GSW,4,13,33,12,20,60.0,4,9,44.4,5,6,83.3,0,3,3,6,3,3,2,0,4,8,-4
+".A. Iguodala, .N. Bjelica, .D. Green, .G. Payton II, .J. Poole",GSW,4,12,31,12,18,66.7,2,7,28.6,5,6,83.3,1,9,10,9,9,7,2,0,3,4,5
+".A. Wiggins, .K. Looney, .G. Payton II, .D. Lee, .J. Poole",GSW,4,11,34,10,16,62.5,7,9,77.8,7,7,100,3,9,12,7,5,1,1,0,4,6,2
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,4,11,12,3,20,15.0,2,16,12.5,4,4,100,3,4,7,3,5,3,0,0,3,4,-15
+".S. Curry, .D. Green, .A. Wiggins, .G. Payton II, .J. Poole",GSW,4,11,23,10,24,41.7,2,12,16.7,1,3,33.3,5,14,19,8,7,3,4,0,7,4,6
+".S. Curry, .K. Thompson, .A. Wiggins, .J. Poole, .J. Kuminga",GSW,4,11,28,11,21,52.4,2,9,22.2,4,4,100,0,7,7,5,3,1,2,0,2,7,7
+".D. Green, .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,4,10,23,10,18,55.6,3,9,33.3,0,0,0.0,1,7,8,8,3,2,1,1,3,1,4
+".S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II, .D. Lee",GSW,4,9,20,8,18,44.4,1,10,10.0,3,3,100,2,6,8,6,3,2,0,0,6,1,1
+".D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,4,8,16,6,13,46.2,3,7,42.9,1,2,50.0,1,8,9,5,1,0,0,2,2,1,4
+".K. Thompson, .O. Porter Jr., .A. Wiggins, .J. Poole, .J. Kuminga",GSW,4,8,20,8,14,57.1,2,3,66.7,2,4,50.0,2,4,6,4,4,2,1,1,3,5,3
+".O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga",GSW,4,8,7,3,14,21.4,0,7,0.0,1,2,50.0,1,6,7,2,2,0,0,1,3,2,-13
+".S. Curry, .O. Porter Jr., .A. Wiggins, .J. Poole, .J. Kuminga",GSW,4,7,22,9,14,64.3,2,4,50.0,2,2,100,1,6,7,2,3,2,0,0,5,2,2
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,4,7,31,10,17,58.8,5,9,55.6,6,6,100,2,2,4,6,0,1,1,1,6,6,12
+".D. Green, .A. Wiggins, .K. Looney, .C. Chiozza, .J. Poole",GSW,4,7,18,6,9,66.7,3,5,60.0,3,4,75.0,0,6,6,4,2,0,0,0,3,3,-4
+".N. Bjelica, .G. Payton II, .D. Lee, .J. Poole, .J. Kuminga",GSW,4,7,21,9,14,64.3,2,3,66.7,1,3,33.3,1,8,9,4,2,2,1,0,2,2,11
+".N. Bjelica, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,4,7,10,3,15,20.0,2,6,33.3,2,2,100,4,4,8,3,1,2,0,0,2,2,-6
+".K. Thompson, .A. Wiggins, .K. Looney, .J. Poole, .J. Kuminga",GSW,4,7,12,5,15,33.3,1,7,14.3,1,1,100,3,3,6,3,0,1,1,1,3,0,-15
+".S. Curry, .N. Bjelica, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson",GSW,4,6,18,6,11,54.5,2,5,40.0,4,4,100,0,3,3,6,0,3,1,1,3,3,9
+".N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,4,6,14,6,11,54.5,0,2,0.0,2,3,66.7,1,7,8,4,4,1,0,1,3,4,0
+".A. Wiggins, .K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,4,5,6,3,7,42.9,0,3,0.0,0,2,0.0,0,5,5,2,2,0,0,0,4,1,-1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Toscano-Anderson",GSW,4,5,9,3,8,37.5,1,4,25.0,2,2,100,2,2,4,1,1,1,1,0,2,2,1
+".N. Bjelica, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Poole",GSW,4,4,15,4,6,66.7,2,3,66.7,5,5,100,0,2,2,3,0,0,0,0,3,3,3
+".S. Curry, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,4,2,3,1,4,25.0,0,2,0.0,1,2,50.0,1,3,4,0,1,0,0,1,0,1,1
+".S. Curry, .D. Green, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson",GSW,4,2,5,2,3,66.7,1,1,100,0,0,0.0,0,1,1,1,0,0,0,0,2,0,1
+".A. Wiggins, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,4,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,1,0,0,0,0,0
+".S. Curry, .A. Wiggins, .K. Looney, .G. Payton II, .M. Moody",GSW,3,22,63,26,45,57.8,7,18,38.9,4,12,33.3,6,18,24,18,4,8,0,4,8,10,25
+".N. Bjelica, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,3,22,47,16,40,40.0,9,21,42.9,6,8,75.0,4,19,23,10,5,3,2,3,11,7,6
+".K. Thompson, .D. Green, .A. Wiggins, .J. Poole, .J. Kuminga",GSW,3,16,30,11,31,35.5,6,18,33.3,2,4,50.0,3,11,14,9,3,0,0,0,6,2,-18
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .M. Moody",GSW,3,15,35,14,33,42.4,4,12,33.3,3,5,60.0,4,16,20,9,7,2,4,2,6,4,7
+".S. Curry, .K. Thompson, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,3,15,42,18,29,62.1,5,11,45.5,1,2,50.0,2,9,11,11,3,4,0,2,7,3,1
+".S. Curry, .N. Bjelica, .O. Porter Jr., .C. Chiozza, .J. Toscano-Anderson",GSW,3,15,28,11,26,42.3,4,14,28.6,2,2,100,6,11,17,8,9,5,2,0,7,6,8
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .J. Toscano-Anderson",GSW,3,14,32,13,24,54.2,2,9,22.2,4,4,100,2,11,13,5,7,2,0,1,7,2,5
+".S. Curry, .N. Bjelica, .O. Porter Jr., .D. Lee, .J. Kuminga",GSW,3,12,24,9,21,42.9,4,12,33.3,2,2,100,2,7,9,8,5,5,0,1,6,2,-1
+".A. Iguodala, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,3,12,23,10,16,62.5,3,6,50.0,0,0,0.0,0,6,6,8,5,2,2,1,7,1,8
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .J. Poole",GSW,3,11,26,9,20,45.0,5,14,35.7,3,3,100,1,9,10,9,1,3,1,0,2,3,5
+".S. Curry, .D. Green, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson",GSW,3,11,29,10,14,71.4,3,5,60.0,6,6,100,2,8,10,7,8,4,3,1,4,6,10
+".A. Iguodala, .S. Curry, .A. Wiggins, .K. Looney, .J. Poole",GSW,3,10,35,14,21,66.7,5,9,55.6,2,2,100,5,6,11,9,3,6,1,0,2,4,26
+".O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole, .J. Kuminga",GSW,3,10,33,11,19,57.9,6,9,66.7,5,5,100,2,5,7,6,2,3,0,2,2,4,5
+".S. Curry, .O. Porter Jr., .K. Looney, .D. Lee, .J. Toscano-Anderson",GSW,3,10,22,9,14,64.3,4,8,50.0,0,0,0.0,1,6,7,7,3,1,3,0,5,1,2
+".A. Iguodala, .S. Curry, .N. Bjelica, .G. Payton II, .J. Kuminga",GSW,3,10,31,12,20,60.0,6,11,54.5,1,2,50.0,1,9,10,10,3,4,1,1,4,2,15
+".S. Curry, .K. Thompson, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,3,9,27,9,16,56.3,5,9,55.6,4,5,80.0,2,8,10,6,2,2,0,1,5,4,12
+".N. Bjelica, .K. Thompson, .J. Poole, .J. Kuminga, .M. Moody",GSW,3,9,18,6,18,33.3,2,8,25.0,4,4,100,3,9,12,6,0,0,1,0,3,5,3
+".A. Iguodala, .S. Curry, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson",GSW,3,9,24,9,17,52.9,6,9,66.7,0,0,0.0,2,8,10,7,2,1,2,1,5,3,8
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .G. Payton II",GSW,3,8,23,8,16,50.0,2,5,40.0,5,5,100,1,6,7,5,1,2,1,3,4,4,1
+".N. Bjelica, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,3,8,10,3,10,30.0,0,6,0.0,4,6,66.7,0,5,5,1,5,0,3,1,3,4,-10
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Green, .D. Lee",GSW,3,8,13,5,11,45.5,1,6,16.7,2,4,50.0,0,6,6,3,6,1,0,0,3,4,-8
+".S. Curry, .A. Wiggins, .K. Looney, .D. Lee, .J. Toscano-Anderson",GSW,3,8,15,5,14,35.7,2,6,33.3,3,3,100,3,4,7,4,4,2,0,1,5,3,-10
+".N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,3,8,23,6,12,50.0,2,3,66.7,9,9,100,1,4,5,4,4,1,0,1,3,5,3
+".S. Curry, .D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,3,8,19,5,11,45.5,1,6,16.7,8,8,100,0,6,6,5,3,3,0,0,3,6,4
+".S. Curry, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,3,8,18,7,14,50.0,4,9,44.4,0,1,0.0,1,5,6,3,1,2,0,1,3,1,3
+".S. Curry, .N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,3,7,12,5,15,33.3,2,10,20.0,0,0,0.0,1,5,6,3,2,1,0,0,4,2,-9
+".D. Green, .A. Wiggins, .G. Payton II, .J. Poole, .J. Kuminga",GSW,3,7,13,3,10,30.0,1,4,25.0,6,9,66.7,1,6,7,2,1,0,0,1,2,5,1
+".S. Curry, .N. Bjelica, .A. Wiggins, .J. Kuminga, .M. Moody",GSW,3,7,7,2,13,15.4,1,9,11.1,2,2,100,2,6,8,2,4,1,0,1,3,3,-10
+".N. Bjelica, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,3,7,25,10,16,62.5,3,7,42.9,2,2,100,3,2,5,3,2,1,0,2,10,1,2
+".A. Iguodala, .S. Curry, .O. Porter Jr., .G. Payton II, .D. Lee",GSW,3,7,15,7,14,50.0,1,6,16.7,0,0,0.0,4,3,7,4,2,1,2,1,2,1,-3
+".S. Curry, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,3,7,23,7,11,63.6,4,7,57.1,5,8,62.5,2,2,4,5,4,4,3,0,2,5,8
+".N. Bjelica, .A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga",GSW,3,7,17,7,11,63.6,3,4,75.0,0,0,0.0,0,6,6,3,2,0,0,0,5,2,7
+".D. Lee, .J. Toscano-Anderson, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,3,6,20,7,10,70.0,1,3,33.3,5,5,100,0,7,7,2,2,3,2,0,3,4,14
+".K. Thompson, .A. Wiggins, .K. Looney, .J. Toscano-Anderson, .J. Poole",GSW,3,6,10,4,15,26.7,2,8,25.0,0,2,0.0,7,5,12,3,4,3,1,2,1,1,2
+".N. Bjelica, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,3,6,11,4,9,44.4,0,3,0.0,3,4,75.0,2,1,3,3,3,1,1,1,2,3,-2
+".S. Curry, .D. Green, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson",GSW,3,6,25,10,13,76.9,2,5,40.0,3,3,100,1,4,5,7,1,4,2,0,4,3,13
+".D. Green, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,3,6,13,5,9,55.6,0,3,0.0,3,4,75.0,1,4,5,2,1,0,1,0,4,4,-4
+".A. Iguodala, .S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney",GSW,3,6,14,5,12,41.7,3,9,33.3,1,1,100,2,3,5,5,1,1,0,0,3,3,1
+".S. Curry, .N. Bjelica, .A. Wiggins, .D. Lee, .J. Kuminga",GSW,3,5,8,3,11,27.3,1,5,20.0,1,1,100,1,7,8,2,2,1,0,0,1,1,-1
+".A. Wiggins, .K. Looney, .G. Payton II, .J. Poole, .J. Kuminga",GSW,3,5,20,6,9,66.7,2,4,50.0,6,6,100,3,6,9,3,1,1,0,1,2,4,9
+".S. Curry, .N. Bjelica, .K. Thompson, .O. Porter Jr., .J. Poole",GSW,3,5,14,6,13,46.2,1,6,16.7,1,2,50.0,3,4,7,3,1,2,0,0,4,3,6
+".D. Green, .A. Wiggins, .K. Looney, .J. Poole, .M. Moody",GSW,3,5,6,1,7,14.3,0,3,0.0,4,4,100,2,5,7,0,4,1,0,0,0,2,-2
+".N. Bjelica, .O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Poole",GSW,3,5,11,3,11,27.3,2,4,50.0,3,4,75.0,4,3,7,3,1,1,0,1,1,2,0
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .J. Kuminga",GSW,3,5,13,3,8,37.5,1,5,20.0,6,7,85.7,2,3,5,2,1,0,1,0,3,3,-5
+".S. Curry, .N. Bjelica, .D. Green, .O. Porter Jr., .G. Payton II",GSW,3,5,12,5,11,45.5,2,4,50.0,0,0,0.0,1,3,4,4,1,3,0,1,2,0,5
+".N. Bjelica, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,3,5,8,4,6,66.7,0,0,0.0,0,0,0.0,0,2,2,3,2,0,0,0,5,0,-4
+".D. Green, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole",GSW,3,5,10,4,9,44.4,2,4,50.0,0,0,0.0,0,2,2,4,1,1,0,0,4,0,-6
+".K. Thompson, .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,3,5,13,4,7,57.1,1,2,50.0,4,5,80.0,0,2,2,1,1,2,1,0,2,2,3
+".N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,3,4,9,3,7,42.9,0,3,0.0,3,4,75.0,1,2,3,1,1,1,0,0,1,4,0
+".D. Green, .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson, .J. Poole",GSW,3,4,7,2,9,22.2,2,4,50.0,1,2,50.0,2,3,5,2,0,0,1,0,3,1,4
+".S. Curry, .N. Bjelica, .K. Thompson, .O. Porter Jr., .D. Lee",GSW,3,4,8,3,7,42.9,2,2,100,0,0,0.0,1,4,5,3,1,0,0,1,1,2,3
+".N. Bjelica, .D. Green, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,3,4,11,4,5,80.0,2,3,66.7,1,2,50.0,0,2,2,4,1,0,0,0,2,1,-4
+".D. Green, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,3,4,9,4,8,50.0,0,2,0.0,1,2,50.0,2,2,4,2,1,2,0,0,1,1,-1
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Lee, .J. Poole",GSW,3,4,10,4,6,66.7,0,2,0.0,2,2,100,1,2,3,3,2,1,0,0,3,1,2
+".A. Wiggins, .K. Looney, .C. Chiozza, .J. Toscano-Anderson, .J. Poole",GSW,3,3,5,2,4,50.0,0,1,0.0,1,4,25.0,1,3,4,1,2,0,0,0,0,2,0
+".A. Iguodala, .S. Curry, .A. Wiggins, .K. Looney, .D. Lee",GSW,3,3,2,1,5,20.0,0,3,0.0,0,0,0.0,1,3,4,0,1,0,0,0,1,2,-6
+".S. Curry, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,3,3,12,5,7,71.4,2,3,66.7,0,0,0.0,1,2,3,3,1,0,0,0,1,0,4
+".S. Curry, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,3,3,13,4,6,66.7,1,2,50.0,4,5,80.0,1,2,3,1,0,1,0,1,2,2,4
+".A. Iguodala, .S. Curry, .D. Green, .A. Wiggins, .K. Looney",GSW,3,3,2,1,3,33.3,0,1,0.0,0,2,0.0,0,1,1,1,0,0,0,0,3,1,-6
+".S. Curry, .A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga",GSW,3,3,5,2,3,66.7,0,0,0.0,1,2,50.0,0,1,1,1,2,0,0,0,3,1,0
+".S. Curry, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,3,3,4,1,4,25.0,1,2,50.0,1,2,50.0,0,3,3,1,0,0,0,0,1,2,-1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Toscano-Anderson",GSW,3,2,4,1,3,33.3,1,2,50.0,1,2,50.0,0,1,1,1,2,0,0,0,1,1,-9
+".N. Bjelica, .K. Thompson, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,3,2,5,1,4,25.0,0,2,0.0,3,5,60.0,1,2,3,0,0,0,0,0,3,4,-1
+".D. Green, .O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole",GSW,3,2,4,2,5,40.0,0,1,0.0,0,0,0.0,1,2,3,1,0,0,0,0,1,0,-2
+".S. Curry, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .G. Payton II",GSW,3,1,1,0,2,0.0,0,2,0.0,1,4,25.0,1,2,3,0,1,1,0,0,1,3,-1
+".S. Curry, .N. Bjelica, .O. Porter Jr., .J. Toscano-Anderson, .J. Poole",GSW,3,1,8,3,5,60.0,2,4,50.0,0,0,0.0,0,3,3,1,0,0,0,0,0,0,5
+".S. Curry, .D. Green, .O. Porter Jr., .J. Toscano-Anderson, .J. Poole",GSW,3,1,0,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,0,-3
+".A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,3,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,0,0
+".A. Iguodala, .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,3,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,1,0,-1
+".S. Curry, .D. Green, .O. Porter Jr., .K. Looney, .G. Payton II",GSW,2,29,87,34,59,57.6,10,23,43.5,9,11,81.8,10,20,30,23,5,4,7,1,12,10,19
+".K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,2,26,71,25,50,50.0,14,27,51.9,7,7,100,6,16,22,17,7,2,0,1,8,7,-3
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Lee, .J. Toscano-Anderson",GSW,2,16,47,16,31,51.6,5,13,38.5,10,10,100,2,12,14,10,1,0,2,1,10,7,7
+".K. Thompson, .D. Green, .A. Wiggins, .K. Looney, .J. Poole",GSW,2,16,28,12,33,36.4,2,9,22.2,2,2,100,3,15,18,9,4,1,0,3,7,3,-10
+".A. Iguodala, .S. Curry, .O. Porter Jr., .D. Lee, .J. Kuminga",GSW,2,16,30,10,29,34.5,2,13,15.4,8,11,72.7,8,16,24,7,8,2,1,1,7,10,8
+".K. Thompson, .D. Green, .O. Porter Jr., .G. Payton II, .D. Lee",GSW,2,15,31,11,28,39.3,1,7,14.3,8,9,88.9,5,10,15,7,6,5,0,1,7,8,-1
+".K. Thompson, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,14,33,13,26,50.0,5,10,50.0,2,6,33.3,4,13,17,7,6,2,2,0,5,6,8
+".K. Thompson, .K. Looney, .G. Payton II, .D. Lee, .J. Poole",GSW,2,13,29,11,20,55.0,3,9,33.3,4,4,100,4,11,15,6,5,0,1,1,3,6,12
+".G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,2,13,28,10,20,50.0,4,8,50.0,4,7,57.1,1,10,11,6,2,1,0,2,5,5,-1
+".S. Curry, .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,2,12,23,9,19,47.4,1,6,16.7,4,6,66.7,3,9,12,7,7,2,0,2,3,4,-3
+".S. Curry, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,10,14,5,16,31.3,2,8,25.0,2,2,100,2,4,6,3,4,3,0,3,2,1,-15
+".S. Curry, .N. Bjelica, .G. Payton II, .D. Lee, .J. Kuminga",GSW,2,9,20,7,13,53.8,4,8,50.0,2,2,100,1,3,4,6,1,3,1,0,3,2,-1
+".N. Bjelica, .K. Thompson, .O. Porter Jr., .J. Poole, .J. Kuminga",GSW,2,9,26,11,17,64.7,3,5,60.0,1,2,50.0,2,7,9,6,2,3,1,1,6,3,1
+".N. Bjelica, .K. Thompson, .O. Porter Jr., .C. Chiozza, .J. Kuminga",GSW,2,9,18,7,11,63.6,3,6,50.0,1,2,50.0,0,5,5,6,4,2,0,0,2,1,1
+".S. Curry, .D. Green, .K. Looney, .D. Lee, .J. Kuminga",GSW,2,9,15,6,12,50.0,2,6,33.3,1,2,50.0,0,9,9,3,5,3,1,0,4,1,2
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .C. Chiozza",GSW,2,9,20,8,21,38.1,4,10,40.0,0,0,0.0,6,7,13,7,1,2,0,2,2,2,7
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .J. Poole, .M. Moody",GSW,2,8,17,6,16,37.5,3,9,33.3,2,2,100,1,9,10,4,1,3,2,2,3,2,10
+".G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,2,8,25,9,13,69.2,3,7,42.9,4,4,100,0,5,5,5,0,0,0,0,3,3,2
+".S. Curry, .N. Bjelica, .D. Green, .A. Wiggins, .D. Lee",GSW,2,8,18,6,15,40.0,2,6,33.3,4,6,66.7,2,6,8,5,1,0,0,0,1,5,2
+".K. Thompson, .O. Porter Jr., .D. Lee, .J. Poole, .J. Kuminga",GSW,2,7,19,6,14,42.9,2,4,50.0,5,6,83.3,2,9,11,3,1,0,2,1,0,3,5
+".S. Curry, .K. Thompson, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,2,7,16,6,9,66.7,1,4,25.0,3,3,100,0,4,4,5,4,0,1,0,3,2,-5
+".A. Wiggins, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,2,7,15,6,12,50.0,3,8,37.5,0,0,0.0,1,7,8,2,2,2,0,0,2,0,5
+".N. Bjelica, .K. Thompson, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,2,7,15,4,10,40.0,2,5,40.0,5,6,83.3,2,4,6,2,1,1,2,0,6,4,-4
+".A. Iguodala, .S. Curry, .D. Green, .O. Porter Jr., .D. Lee",GSW,2,7,21,9,12,75.0,3,6,50.0,0,0,0.0,0,5,5,8,1,1,1,0,1,1,11
+".S. Curry, .N. Bjelica, .K. Thompson, .J. Kuminga, .M. Moody",GSW,2,7,19,7,13,53.8,3,6,50.0,2,2,100,2,4,6,4,1,0,0,0,5,1,-3
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .D. Lee, .J. Kuminga",GSW,2,6,5,2,11,18.2,0,4,0.0,1,2,50.0,1,4,5,1,3,0,2,1,1,3,-10
+".G. Payton II, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,2,6,7,2,9,22.2,2,6,33.3,1,2,50.0,1,4,5,2,6,2,0,0,4,2,-11
+".K. Looney, .C. Chiozza, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,2,6,12,3,12,25.0,2,7,28.6,4,7,57.1,2,3,5,2,0,2,0,2,2,5,-1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Kuminga",GSW,2,6,15,6,12,50.0,1,6,16.7,2,2,100,1,8,9,3,2,0,1,0,3,1,1
+".A. Iguodala, .S. Curry, .K. Thompson, .A. Wiggins, .G. Payton II",GSW,2,6,6,3,12,25.0,0,6,0.0,0,0,0.0,1,2,3,2,1,1,1,0,3,0,-11
+".K. Looney, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,2,6,7,3,8,37.5,1,2,50.0,0,0,0.0,0,6,6,3,4,0,0,1,2,0,-11
+".A. Iguodala, .S. Curry, .A. Wiggins, .K. Looney, .G. Payton II",GSW,2,6,14,5,17,29.4,0,7,0.0,4,4,100,6,7,13,1,1,3,1,0,4,3,11
+".D. Green, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,2,6,17,7,12,58.3,2,7,28.6,1,1,100,1,3,4,5,0,1,1,0,2,4,6
+".A. Iguodala, .O. Porter Jr., .D. Lee, .J. Poole, .J. Kuminga",GSW,2,6,8,1,10,10.0,1,6,16.7,5,5,100,1,3,4,1,2,0,0,1,2,4,-12
+".N. Bjelica, .K. Thompson, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,2,6,13,6,11,54.5,1,3,33.3,0,0,0.0,2,4,6,4,2,0,1,0,1,0,-4
+".D. Lee, .C. Chiozza, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,6,15,6,13,46.2,3,7,42.9,0,0,0.0,3,4,7,4,2,0,0,1,3,0,7
+".A. Wiggins, .K. Looney, .D. Lee, .J. Poole, .M. Moody",GSW,2,5,14,6,13,46.2,2,8,25.0,0,0,0.0,1,2,3,3,0,1,0,0,1,1,-4
+".S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,2,5,21,7,8,87.5,5,6,83.3,2,2,100,0,4,4,6,2,1,1,0,1,2,9
+".A. Iguodala, .S. Curry, .D. Green, .O. Porter Jr., .G. Payton II",GSW,2,5,10,2,10,20.0,1,5,20.0,5,6,83.3,2,3,5,2,0,1,0,1,0,4,-3
+".A. Iguodala, .N. Bjelica, .G. Payton II, .D. Lee, .J. Poole",GSW,2,5,14,5,8,62.5,1,3,33.3,3,4,75.0,1,4,5,4,2,3,0,0,3,3,7
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Lee, .J. Kuminga",GSW,2,5,17,6,8,75.0,1,2,50.0,4,6,66.7,1,6,7,4,1,2,1,0,1,3,12
+".S. Curry, .O. Porter Jr., .D. Lee, .J. Poole, .J. Kuminga",GSW,2,5,7,3,13,23.1,1,6,16.7,0,0,0.0,2,5,7,3,1,2,0,2,2,0,1
+".S. Curry, .D. Lee, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,2,5,13,5,9,55.6,3,5,60.0,0,2,0.0,0,4,4,0,3,2,0,1,4,3,0
+".O. Porter Jr., .K. Looney, .G. Payton II, .D. Lee, .J. Poole",GSW,2,5,7,3,10,30.0,0,5,0.0,1,1,100,0,2,2,2,1,1,0,1,4,2,-9
+".S. Curry, .N. Bjelica, .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson",GSW,2,5,8,4,8,50.0,0,2,0.0,0,0,0.0,1,4,5,3,1,0,0,0,1,1,-2
+".S. Curry, .K. Thompson, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,5,8,3,6,50.0,0,1,0.0,2,4,50.0,2,4,6,2,2,0,0,0,3,3,-2
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .G. Payton II",GSW,2,5,10,3,4,75.0,1,2,50.0,3,4,75.0,0,2,2,2,3,1,0,0,2,2,0
+".A. Iguodala, .N. Bjelica, .D. Lee, .J. Poole, .J. Kuminga",GSW,2,5,12,3,6,50.0,2,5,40.0,4,4,100,0,1,1,3,4,2,0,0,2,2,-2
+".N. Bjelica, .O. Porter Jr., .C. Chiozza, .J. Poole, .J. Kuminga",GSW,2,4,11,5,11,45.5,1,4,25.0,0,0,0.0,1,1,2,2,0,1,0,1,1,0,-7
+".A. Iguodala, .A. Wiggins, .K. Looney, .J. Poole, .M. Moody",GSW,2,4,10,4,8,50.0,2,4,50.0,0,0,0.0,1,5,6,1,1,0,1,1,0,3,3
+".N. Bjelica, .O. Porter Jr., .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,4,10,3,7,42.9,1,3,33.3,3,3,100,0,7,7,3,2,1,0,1,1,1,6
+".O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole, .M. Moody",GSW,2,4,2,1,9,11.1,0,3,0.0,0,0,0.0,1,2,3,1,0,2,0,0,0,1,-6
+".A. Iguodala, .S. Curry, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,2,4,12,5,8,62.5,1,3,33.3,1,2,50.0,1,3,4,1,2,0,1,0,1,1,4
+".S. Curry, .D. Green, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,2,4,8,3,6,50.0,0,1,0.0,2,3,66.7,1,2,3,1,1,3,1,0,5,1,0
+".A. Iguodala, .S. Curry, .D. Green, .D. Lee, .J. Toscano-Anderson",GSW,2,4,8,4,8,50.0,0,3,0.0,0,0,0.0,0,3,3,3,1,2,0,0,2,0,-3
+".S. Curry, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,2,4,11,4,7,57.1,2,3,66.7,1,1,100,0,3,3,4,1,1,1,0,0,1,9
+".N. Bjelica, .A. Wiggins, .D. Lee, .C. Chiozza, .J. Kuminga",GSW,2,4,3,0,4,0.0,0,2,0.0,3,4,75.0,1,2,3,0,2,2,0,0,2,3,-1
+".S. Curry, .A. Wiggins, .K. Looney, .J. Kuminga, .M. Moody",GSW,2,4,4,1,6,16.7,0,4,0.0,2,2,100,1,5,6,0,3,0,0,0,2,1,-5
+".O. Porter Jr., .A. Wiggins, .K. Looney, .J. Toscano-Anderson, .J. Poole",GSW,2,4,9,3,8,37.5,1,3,33.3,2,2,100,3,4,7,2,2,0,0,0,1,1,1
+".S. Curry, .N. Bjelica, .A. Wiggins, .G. Payton II, .D. Lee",GSW,2,4,7,3,7,42.9,0,1,0.0,1,2,50.0,0,2,2,2,1,0,0,0,1,2,-5
+".S. Curry, .K. Thompson, .O. Porter Jr., .D. Lee, .J. Kuminga",GSW,2,4,16,6,7,85.7,2,3,66.7,2,2,100,0,4,4,5,1,0,1,0,2,1,11
+".S. Curry, .D. Green, .O. Porter Jr., .G. Payton II, .D. Lee",GSW,2,4,7,3,10,30.0,1,3,33.3,0,0,0.0,2,2,4,2,0,0,0,2,1,1,-3
+".N. Bjelica, .D. Green, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,2,4,5,2,7,28.6,0,3,0.0,1,1,100,1,4,5,2,0,0,0,0,3,2,-3
+".A. Iguodala, .S. Curry, .O. Porter Jr., .A. Wiggins, .D. Lee",GSW,2,4,9,3,6,50.0,1,2,50.0,2,3,66.7,0,3,3,2,1,0,1,0,0,1,0
+".S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney, .J. Kuminga",GSW,2,3,8,2,5,40.0,2,3,66.7,2,2,100,0,4,4,0,1,1,1,1,1,2,4
+".K. Thompson, .D. Green, .A. Wiggins, .G. Payton II, .J. Poole",GSW,2,3,8,3,7,42.9,2,5,40.0,0,0,0.0,1,2,3,2,1,0,0,0,3,0,-6
+".A. Iguodala, .S. Curry, .N. Bjelica, .J. Toscano-Anderson, .J. Poole",GSW,2,3,11,2,5,40.0,1,2,50.0,6,7,85.7,0,2,2,1,0,0,0,1,2,4,3
+".K. Looney, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,3,8,3,7,42.9,1,3,33.3,1,2,50.0,1,2,3,3,1,1,0,1,1,2,1
+".S. Curry, .N. Bjelica, .D. Lee, .J. Poole, .J. Kuminga",GSW,2,3,13,4,5,80.0,2,2,100,3,3,100,1,2,3,0,1,1,0,0,2,1,7
+".A. Iguodala, .S. Curry, .N. Bjelica, .G. Payton II, .J. Toscano-Anderson",GSW,2,3,9,1,4,25.0,1,4,25.0,6,6,100,0,3,3,0,0,1,0,0,1,3,0
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole",GSW,2,3,6,2,4,50.0,0,0,0.0,2,2,100,0,6,6,1,1,0,0,0,0,2,6
+".S. Curry, .O. Porter Jr., .A. Wiggins, .K. Looney, .M. Moody",GSW,2,3,4,2,5,40.0,0,2,0.0,0,0,0.0,0,2,2,2,2,0,0,1,2,1,-6
+".S. Curry, .N. Bjelica, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,2,3,5,2,5,40.0,0,3,0.0,1,2,50.0,1,4,5,1,2,0,0,0,0,1,1
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .J. Kuminga",GSW,2,3,4,2,5,40.0,0,3,0.0,0,0,0.0,0,1,1,1,1,1,1,0,1,2,-4
+".K. Thompson, .O. Porter Jr., .K. Looney, .J. Poole, .J. Kuminga",GSW,2,3,9,4,8,50.0,1,2,50.0,0,0,0.0,1,4,5,2,1,0,0,1,2,0,1
+".S. Curry, .A. Wiggins, .K. Looney, .G. Payton II, .J. Kuminga",GSW,2,3,8,2,5,40.0,1,3,33.3,3,5,60.0,1,1,2,2,2,0,1,0,3,3,-5
+".A. Iguodala, .S. Curry, .N. Bjelica, .A. Wiggins, .J. Poole",GSW,2,3,3,0,4,0.0,0,2,0.0,3,4,75.0,0,5,5,0,0,0,1,1,1,2,1
+".N. Bjelica, .A. Wiggins, .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,3,5,2,3,66.7,1,1,100,0,0,0.0,0,0,0,2,0,1,0,0,2,1,-6
+".N. Bjelica, .K. Thompson, .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,3,5,2,6,33.3,0,2,0.0,1,2,50.0,1,4,5,2,0,0,1,1,2,1,3
+".A. Iguodala, .D. Green, .A. Wiggins, .D. Lee, .J. Poole",GSW,2,3,5,1,4,25.0,0,1,0.0,3,3,100,0,0,0,1,2,0,0,1,1,1,-5
+".S. Curry, .D. Green, .O. Porter Jr., .K. Looney, .D. Lee",GSW,2,3,10,3,4,75.0,2,3,66.7,2,2,100,1,2,3,3,1,2,0,0,2,1,5
+".S. Curry, .O. Porter Jr., .K. Looney, .D. Lee, .J. Kuminga",GSW,2,3,1,0,2,0.0,0,1,0.0,1,2,50.0,0,1,1,0,2,0,0,0,2,2,-5
+".D. Green, .K. Looney, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,2,3,3,1,3,33.3,1,1,100,0,0,0.0,0,0,0,1,1,0,0,0,1,1,-8
+".N. Bjelica, .K. Thompson, .G. Payton II, .D. Lee, .J. Poole",GSW,2,3,5,1,4,25.0,1,3,33.3,2,2,100,0,2,2,1,0,0,0,0,0,1,0
+".S. Curry, .K. Looney, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,2,12,5,6,83.3,2,3,66.7,0,0,0.0,0,3,3,5,1,2,0,0,0,1,12
+".S. Curry, .N. Bjelica, .O. Porter Jr., .J. Kuminga, .M. Moody",GSW,2,2,3,1,5,20.0,1,5,20.0,0,0,0.0,2,3,5,1,0,0,0,0,0,0,1
+".A. Iguodala, .S. Curry, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,2,2,8,4,7,57.1,0,3,0.0,0,0,0.0,2,1,3,2,0,3,0,1,2,0,7
+".O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,2,6,2,4,50.0,0,1,0.0,2,2,100,0,1,1,0,0,2,1,0,1,1,4
+".A. Iguodala, .S. Curry, .D. Green, .G. Payton II, .D. Lee",GSW,2,2,6,2,5,40.0,2,5,40.0,0,0,0.0,1,2,3,2,1,0,1,0,3,0,5
+".S. Curry, .A. Wiggins, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,2,4,2,3,66.7,0,0,0.0,0,0,0.0,0,2,2,1,1,0,0,0,0,1,-1
+".S. Curry, .N. Bjelica, .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,2,9,4,4,100,1,1,100,0,0,0.0,0,2,2,2,1,1,1,0,1,1,7
+".N. Bjelica, .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,2,2,1,0,2,0.0,0,0,0.0,1,3,33.3,0,2,2,0,1,0,0,2,1,1,-4
+".S. Curry, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Poole",GSW,2,2,5,2,4,50.0,0,2,0.0,1,1,100,0,1,1,0,0,0,0,0,1,1,-1
+".S. Curry, .K. Thompson, .K. Looney, .J. Kuminga, .M. Moody",GSW,2,2,2,1,4,25.0,0,3,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0,0
+".S. Curry, .D. Green, .K. Looney, .J. Poole, .M. Moody",GSW,2,2,8,1,3,33.3,1,2,50.0,5,5,100,1,1,2,1,1,1,0,0,1,2,4
+".N. Bjelica, .K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,2,2,2,1,3,33.3,0,1,0.0,0,0,0.0,1,0,1,0,1,0,1,1,0,0,-5
+".K. Thompson, .D. Green, .K. Looney, .G. Payton II, .J. Poole",GSW,2,2,2,1,4,25.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,0,2,0,-9
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II",GSW,2,2,3,1,2,50.0,0,0,0.0,1,1,100,0,0,0,0,1,0,0,0,1,1,-1
+".N. Bjelica, .D. Green, .A. Wiggins, .C. Chiozza, .J. Poole",GSW,2,2,2,1,3,33.3,0,1,0.0,0,0,0.0,0,1,1,1,0,1,0,0,2,0,0
+".S. Curry, .O. Porter Jr., .G. Payton II, .J. Poole, .J. Kuminga",GSW,2,2,0,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,1,0,0,-4
+".S. Curry, .N. Bjelica, .J. Poole, .J. Kuminga, .M. Moody",GSW,2,2,4,1,1,100,0,0,0.0,2,2,100,0,1,1,1,1,0,0,0,0,1,-1
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .M. Moody",GSW,2,1,1,0,2,0.0,0,2,0.0,1,2,50.0,0,0,0,0,0,0,0,0,0,1,-3
+".A. Iguodala, .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,2,1,0,0,2,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,0,-2
+".K. Thompson, .K. Looney, .D. Lee, .J. Poole, .J. Kuminga",GSW,2,1,5,2,3,66.7,0,0,0.0,1,1,100,0,0,0,2,0,0,0,0,0,1,2
+".S. Curry, .K. Thompson, .A. Wiggins, .K. Looney, .D. Lee",GSW,2,1,0,0,3,0.0,0,2,0.0,0,0,0.0,1,1,2,0,3,0,0,0,0,0,-4
+".K. Thompson, .A. Wiggins, .K. Looney, .J. Poole, .M. Moody",GSW,2,1,0,0,2,0.0,0,1,0.0,0,0,0.0,1,2,3,0,1,1,0,0,1,0,0
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .D. Lee",GSW,2,1,3,1,1,100,1,1,100,0,0,0.0,0,0,0,1,0,0,0,0,0,1,-2
+".S. Curry, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson",GSW,2,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,-8
+".A. Iguodala, .S. Curry, .A. Wiggins, .G. Payton II, .J. Poole",GSW,2,1,3,1,1,100,1,1,100,0,0,0.0,0,0,0,1,0,0,0,0,1,0,-3
+".A. Iguodala, .S. Curry, .D. Green, .G. Payton II, .J. Toscano-Anderson",GSW,2,1,3,1,2,50.0,1,1,100,0,0,0.0,0,1,1,1,0,1,1,0,0,0,3
+".O. Porter Jr., .K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,2,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,1,1,-2
+".K. Thompson, .D. Green, .A. Wiggins, .D. Lee, .J. Poole",GSW,2,1,0,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,1,1,0,-2
+".S. Curry, .D. Green, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,2,0,1,0,0,0.0,0,0,0.0,1,2,50.0,0,0,0,0,0,0,0,0,0,1,1
+".A. Iguodala, .S. Curry, .O. Porter Jr., .D. Lee, .J. Poole",GSW,2,0,0,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,1,0,-3
+".S. Curry, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole",GSW,2,0,4,2,2,100,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,4
+".A. Iguodala, .D. Green, .A. Wiggins, .G. Payton II, .J. Kuminga",GSW,2,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,2,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,24,58,23,44,52.3,7,14,50.0,5,7,71.4,8,20,28,13,7,3,4,4,10,13,18
+".S. Curry, .K. Thompson, .K. Looney, .J. Poole, .J. Kuminga",GSW,1,12,26,10,23,43.5,4,14,28.6,2,2,100,2,7,9,8,5,4,1,0,3,2,-2
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .D. Lee, .C. Chiozza",GSW,1,10,28,11,21,52.4,4,10,40.0,2,2,100,3,5,8,7,0,3,2,0,4,5,7
+".A. Wiggins, .K. Looney, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,10,27,10,19,52.6,5,11,45.5,2,2,100,2,9,11,5,2,1,1,0,4,2,12
+".S. Curry, .D. Green, .K. Looney, .D. Lee, .J. Toscano-Anderson",GSW,1,9,21,9,17,52.9,3,6,50.0,0,1,0.0,2,7,9,7,3,0,0,0,7,2,-4
+".A. Iguodala, .N. Bjelica, .D. Lee, .J. Kuminga, .M. Moody",GSW,1,9,21,8,17,47.1,1,4,25.0,4,6,66.7,4,10,14,4,4,3,2,0,5,3,3
+".K. Looney, .C. Chiozza, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,8,19,7,12,58.3,2,6,33.3,3,5,60.0,3,3,6,5,6,2,0,0,7,4,-12
+".K. Thompson, .D. Green, .O. Porter Jr., .K. Looney, .J. Poole",GSW,1,8,16,7,18,38.9,2,10,20.0,0,0,0.0,3,5,8,4,0,1,0,0,4,1,-6
+".N. Bjelica, .D. Lee, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga",GSW,1,8,24,8,12,66.7,2,3,66.7,6,6,100,0,6,6,4,2,1,0,2,3,7,2
+".N. Bjelica, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .M. Moody",GSW,1,8,21,7,13,53.8,3,8,37.5,4,5,80.0,1,4,5,6,2,2,1,1,3,4,3
+".G. Payton II, .J. Toscano-Anderson, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,1,7,20,7,14,50.0,3,8,37.5,3,5,60.0,2,8,10,5,2,3,1,1,2,4,5
+".S. Curry, .N. Bjelica, .O. Porter Jr., .Q. Weatherspoon, .J. Kuminga",GSW,1,7,19,7,12,58.3,3,6,50.0,2,2,100,1,2,3,5,2,2,0,1,5,1,1
+".N. Bjelica, .A. Wiggins, .G. Payton II, .D. Lee, .C. Chiozza",GSW,1,6,11,2,8,25.0,0,3,0.0,7,7,100,0,5,5,2,2,0,0,0,3,4,-4
+".A. Iguodala, .S. Curry, .N. Bjelica, .A. Wiggins, .J. Kuminga",GSW,1,6,12,4,11,36.4,1,6,16.7,3,7,42.9,1,5,6,2,0,1,0,1,2,5,0
+".A. Iguodala, .S. Curry, .N. Bjelica, .J. Toscano-Anderson, .J. Kuminga",GSW,1,6,13,5,8,62.5,2,4,50.0,1,4,25.0,0,7,7,3,1,0,0,0,3,3,7
+".N. Bjelica, .D. Lee, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,6,18,4,9,44.4,4,6,66.7,6,6,100,1,2,3,3,1,1,0,1,4,3,2
+".S. Curry, .K. Thompson, .D. Green, .K. Looney, .J. Poole",GSW,1,6,21,6,9,66.7,2,5,40.0,7,7,100,0,6,6,2,1,1,1,0,3,4,7
+".A. Iguodala, .S. Curry, .K. Thompson, .A. Wiggins, .J. Toscano-Anderson",GSW,1,6,14,4,11,36.4,2,4,50.0,4,4,100,2,5,7,2,2,0,0,0,2,2,4
+".S. Curry, .K. Thompson, .O. Porter Jr., .K. Looney, .J. Poole",GSW,1,5,10,4,9,44.4,2,6,33.3,0,0,0.0,0,3,3,2,2,1,1,0,1,0,-4
+".G. Payton II, .D. Lee, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga",GSW,1,5,10,3,10,30.0,1,6,16.7,3,3,100,1,4,5,2,1,2,0,1,4,3,2
+".N. Bjelica, .D. Lee, .C. Chiozza, .J. Kuminga, .M. Moody",GSW,1,5,12,4,9,44.4,3,5,60.0,1,2,50.0,1,1,2,3,2,0,0,0,1,3,-5
+".A. Iguodala, .S. Curry, .O. Porter Jr., .G. Payton II, .J. Kuminga",GSW,1,5,13,5,9,55.6,1,5,20.0,2,2,100,1,2,3,2,2,1,0,0,1,3,-2
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .D. Lee, .C. Chiozza",GSW,1,5,14,6,11,54.5,2,4,50.0,0,0,0.0,3,1,4,2,2,1,0,0,2,0,-1
+".S. Curry, .N. Bjelica, .D. Green, .O. Porter Jr., .M. Moody",GSW,1,5,22,7,8,87.5,5,6,83.3,3,5,60.0,0,4,4,3,0,0,0,0,2,2,9
+".N. Bjelica, .K. Thompson, .D. Green, .O. Porter Jr., .J. Poole",GSW,1,5,12,5,9,55.6,1,4,25.0,1,1,100,0,4,4,4,1,1,1,0,1,2,1
+".N. Bjelica, .K. Looney, .D. Lee, .C. Chiozza, .J. Kuminga",GSW,1,5,15,6,9,66.7,2,5,40.0,1,2,50.0,0,3,3,6,1,0,0,0,3,3,4
+".O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,5,7,3,9,33.3,1,6,16.7,0,0,0.0,0,5,5,2,1,0,1,1,2,1,-4
+".A. Iguodala, .S. Curry, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,5,7,3,12,25.0,1,9,11.1,0,0,0.0,2,3,5,3,1,0,0,1,3,1,-3
+".G. Payton II, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,5,17,7,10,70.0,3,4,75.0,0,0,0.0,0,2,2,6,2,2,0,1,3,0,7
+".S. Curry, .D. Green, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,5,8,4,8,50.0,0,4,0.0,0,0,0.0,0,5,5,3,0,0,0,0,0,1,6
+".A. Iguodala, .S. Curry, .N. Bjelica, .G. Payton II, .J. Poole",GSW,1,4,11,4,9,44.4,1,5,20.0,2,2,100,0,4,4,2,0,1,3,0,2,1,5
+".S. Curry, .N. Bjelica, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,4,15,5,7,71.4,2,3,66.7,3,3,100,0,3,3,3,1,0,0,0,0,2,2
+".O. Porter Jr., .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,4,12,5,8,62.5,0,2,0.0,2,2,100,0,3,3,3,0,2,0,1,2,1,3
+".A. Iguodala, .S. Curry, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,4,7,3,7,42.9,1,4,25.0,0,0,0.0,0,1,1,2,0,1,0,0,3,1,-4
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .K. Looney",GSW,1,4,11,5,10,50.0,1,5,20.0,0,0,0.0,3,3,6,2,0,0,0,0,1,1,7
+".D. Lee, .J. Toscano-Anderson, .J. Poole, .Q. Weatherspoon, .J. Kuminga",GSW,1,4,13,4,8,50.0,2,5,40.0,3,3,100,0,6,6,4,0,1,1,1,1,2,5
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .C. Chiozza",GSW,1,4,9,3,8,37.5,2,7,28.6,1,2,50.0,2,4,6,3,1,0,1,0,0,1,3
+".A. Iguodala, .S. Curry, .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,1,4,7,3,9,33.3,1,6,16.7,0,0,0.0,0,0,0,2,0,3,0,0,2,1,-3
+".K. Looney, .D. Lee, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,4,13,5,10,50.0,2,3,66.7,1,1,100,4,1,5,2,2,1,1,1,1,1,1
+".K. Thompson, .K. Looney, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,4,3,1,5,20.0,0,2,0.0,1,2,50.0,1,3,4,0,1,0,0,0,1,3,-2
+".N. Bjelica, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,4,6,1,7,14.3,1,5,20.0,3,4,75.0,2,3,5,1,0,0,0,0,2,2,-5
+".D. Green, .K. Looney, .G. Payton II, .D. Lee, .J. Poole",GSW,1,4,11,3,4,75.0,1,2,50.0,4,6,66.7,0,3,3,3,1,1,1,0,2,5,6
+".D. Green, .O. Porter Jr., .D. Lee, .J. Poole, .M. Moody",GSW,1,4,8,2,6,33.3,1,4,25.0,3,3,100,0,1,1,2,0,1,0,0,3,1,-2
+".D. Lee, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,4,8,2,5,40.0,2,3,66.7,2,2,100,1,5,6,2,3,2,0,0,1,2,1
+".S. Curry, .D. Green, .K. Looney, .G. Payton II, .J. Kuminga",GSW,1,4,13,3,8,37.5,3,6,50.0,4,4,100,2,3,5,2,1,0,1,1,0,2,4
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .J. Poole, .J. Kuminga",GSW,1,4,7,3,6,50.0,0,1,0.0,1,1,100,1,2,3,1,2,3,0,0,2,2,4
+".S. Curry, .O. Porter Jr., .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,4,8,3,7,42.9,2,3,66.7,0,0,0.0,0,1,1,3,1,1,0,0,2,1,-2
+".N. Bjelica, .K. Thompson, .D. Green, .C. Chiozza, .J. Kuminga",GSW,1,4,10,4,8,50.0,2,4,50.0,0,0,0.0,3,3,6,2,2,0,0,0,1,0,4
+".S. Curry, .N. Bjelica, .D. Green, .A. Wiggins, .M. Moody",GSW,1,4,5,2,9,22.2,0,1,0.0,1,1,100,3,1,4,2,2,0,0,0,0,3,-9
+".D. Green, .A. Wiggins, .G. Payton II, .D. Lee, .J. Poole",GSW,1,4,4,2,5,40.0,0,1,0.0,0,0,0.0,0,1,1,2,2,0,0,0,2,0,-10
+".S. Curry, .O. Porter Jr., .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson",GSW,1,4,16,6,8,75.0,4,5,80.0,0,0,0.0,1,4,5,2,0,0,0,0,0,0,9
+".N. Bjelica, .G. Payton II, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,3,6,3,5,60.0,0,2,0.0,0,0,0.0,0,3,3,2,2,1,1,0,0,2,0
+".N. Bjelica, .G. Payton II, .C. Chiozza, .J. Kuminga, .M. Moody",GSW,1,3,5,1,7,14.3,0,2,0.0,3,4,75.0,3,4,7,0,2,0,0,0,3,2,-5
+".S. Curry, .N. Bjelica, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,3,3,1,6,16.7,1,2,50.0,0,0,0.0,1,2,3,1,3,0,0,1,2,1,-6
+".A. Iguodala, .N. Bjelica, .D. Lee, .C. Chiozza, .M. Moody",GSW,1,3,6,3,7,42.9,0,3,0.0,0,0,0.0,1,1,2,3,1,1,0,1,1,1,-6
+".N. Bjelica, .O. Porter Jr., .A. Wiggins, .J. Poole, .J. Kuminga",GSW,1,3,10,3,5,60.0,2,3,66.7,2,4,50.0,0,4,4,1,1,0,0,0,4,3,7
+".K. Looney, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Dowtin",GSW,1,3,5,2,6,33.3,0,3,0.0,1,2,50.0,2,2,4,1,1,0,0,0,1,1,-4
+".A. Iguodala, .S. Curry, .K. Thompson, .J. Poole, .J. Kuminga",GSW,1,3,8,3,6,50.0,0,2,0.0,2,2,100,0,3,3,3,1,1,0,0,2,1,3
+".A. Iguodala, .S. Curry, .K. Thompson, .A. Wiggins, .K. Looney",GSW,1,3,12,5,8,62.5,1,1,100,1,2,50.0,2,3,5,2,1,1,1,1,1,2,7
+".S. Curry, .N. Bjelica, .D. Green, .G. Payton II, .D. Lee",GSW,1,3,13,5,7,71.4,3,5,60.0,0,0,0.0,2,2,4,3,1,2,0,0,3,0,11
+".N. Bjelica, .D. Lee, .J. Poole, .Q. Weatherspoon, .J. Kuminga",GSW,1,3,7,3,6,50.0,0,2,0.0,1,1,100,0,3,3,3,1,0,0,0,5,1,-1
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .G. Payton II",GSW,1,3,13,5,6,83.3,3,4,75.0,0,0,0.0,0,2,2,3,1,0,0,0,1,0,5
+".S. Curry, .N. Bjelica, .C. Chiozza, .J. Kuminga, .M. Moody",GSW,1,3,6,2,5,40.0,1,3,33.3,1,1,100,0,4,4,2,1,0,0,0,1,1,-1
+".A. Wiggins, .G. Payton II, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,3,6,2,3,66.7,0,1,0.0,2,2,100,0,2,2,0,2,1,0,0,0,1,1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Poole",GSW,1,3,13,4,7,57.1,2,4,50.0,3,4,75.0,0,4,4,3,1,0,0,1,1,3,9
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .C. Chiozza, .J. Kuminga",GSW,1,3,0,0,4,0.0,0,3,0.0,0,2,0.0,0,3,3,0,0,0,0,1,0,1,-2
+".D. Lee, .C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon, .J. Kuminga",GSW,1,3,7,3,5,60.0,1,3,33.3,0,0,0.0,0,0,0,1,0,0,0,0,1,0,-3
+".S. Curry, .K. Thompson, .O. Porter Jr., .J. Poole, .J. Kuminga",GSW,1,3,4,2,6,33.3,0,0,0.0,0,0,0.0,1,3,4,1,1,0,2,0,2,0,-1
+".A. Iguodala, .A. Wiggins, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,4,2,6,33.3,0,2,0.0,0,0,0.0,0,4,4,2,1,1,1,1,0,1,4
+".A. Iguodala, .A. Wiggins, .K. Looney, .D. Lee, .J. Kuminga",GSW,1,3,3,1,4,25.0,0,1,0.0,1,2,50.0,1,2,3,1,1,0,0,1,1,1,-3
+".K. Looney, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,3,6,2,4,50.0,1,2,50.0,1,2,50.0,1,4,5,1,1,0,0,0,2,1,0
+".A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,4,1,5,20.0,0,3,0.0,2,2,100,0,1,1,1,1,2,0,0,4,1,-4
+".N. Bjelica, .A. Wiggins, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,7,2,5,40.0,1,3,33.3,2,2,100,0,4,4,1,1,0,1,1,0,1,1
+".J. Toscano-Anderson, .J. Poole, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,1,3,3,1,4,25.0,1,3,33.3,0,0,0.0,0,2,2,1,2,0,0,0,2,0,-5
+".N. Bjelica, .D. Green, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,3,3,1,5,20.0,1,4,25.0,0,0,0.0,0,1,1,1,1,2,0,0,1,1,-1
+".S. Curry, .N. Bjelica, .O. Porter Jr., .G. Payton II, .C. Chiozza",GSW,1,3,7,3,5,60.0,1,3,33.3,0,0,0.0,1,2,3,3,1,0,0,0,1,0,1
+".A. Iguodala, .D. Green, .O. Porter Jr., .G. Payton II, .C. Chiozza",GSW,1,3,8,3,6,50.0,1,4,25.0,1,1,100,0,2,2,3,0,0,0,0,0,1,-1
+".A. Iguodala, .S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins",GSW,1,3,7,3,5,60.0,1,3,33.3,0,0,0.0,1,2,3,1,1,0,1,0,3,0,2
+".S. Curry, .K. Thompson, .D. Lee, .J. Kuminga, .M. Moody",GSW,1,3,10,3,5,60.0,1,2,50.0,3,4,75.0,1,2,3,2,0,0,0,0,1,2,1
+".D. Green, .O. Porter Jr., .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,3,3,1,6,16.7,1,3,33.3,0,0,0.0,1,1,2,1,1,0,0,0,0,1,-4
+".K. Thompson, .D. Green, .O. Porter Jr., .J. Toscano-Anderson, .J. Poole",GSW,1,3,2,1,7,14.3,0,4,0.0,0,0,0.0,0,1,1,1,0,1,0,2,3,0,-10
+".S. Curry, .O. Porter Jr., .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,5,2,3,66.7,1,2,50.0,0,0,0.0,0,2,2,2,1,0,0,0,0,0,0
+".A. Iguodala, .S. Curry, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson",GSW,1,3,3,1,2,50.0,0,1,0.0,1,2,50.0,0,1,1,1,1,0,0,0,0,1,-4
+".S. Curry, .D. Green, .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson",GSW,1,3,5,2,5,40.0,1,2,50.0,0,2,0.0,2,1,3,2,1,0,0,1,2,2,-2
+".N. Bjelica, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole",GSW,1,3,9,3,4,75.0,3,4,75.0,0,0,0.0,0,1,1,3,1,0,2,0,0,0,5
+".S. Curry, .O. Porter Jr., .A. Wiggins, .G. Payton II, .D. Lee",GSW,1,3,2,1,5,20.0,0,3,0.0,0,0,0.0,1,0,1,1,0,0,0,0,0,0,-7
+".K. Thompson, .O. Porter Jr., .K. Looney, .J. Poole, .Q. Weatherspoon",GSW,1,3,5,2,4,50.0,0,1,0.0,1,2,50.0,0,1,1,0,0,1,0,0,3,1,-3
+".S. Curry, .D. Green, .A. Wiggins, .J. Poole, .J. Kuminga",GSW,1,3,12,3,6,50.0,2,5,40.0,4,4,100,1,3,4,3,0,1,1,0,2,3,7
+".G. Payton II, .C. Chiozza, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,4,1,5,20.0,0,3,0.0,2,2,100,0,0,0,0,1,1,1,0,0,1,-3
+".K. Looney, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Poole",GSW,1,3,5,2,5,40.0,1,2,50.0,0,0,0.0,0,3,3,2,0,1,0,0,0,1,3
+".O. Porter Jr., .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,3,4,1,5,20.0,1,2,50.0,1,2,50.0,1,1,2,1,0,0,1,0,1,1,-2
+".S. Curry, .K. Thompson, .O. Porter Jr., .D. Lee, .M. Moody",GSW,1,3,0,0,5,0.0,0,3,0.0,0,0,0.0,0,3,3,0,1,1,0,0,1,1,-3
+".A. Iguodala, .S. Curry, .K. Thompson, .D. Lee, .J. Kuminga",GSW,1,3,11,4,5,80.0,3,3,100,0,0,0.0,0,0,0,3,0,1,0,1,1,1,5
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,1,3,7,2,5,40.0,1,3,33.3,2,2,100,1,3,4,1,0,0,0,1,0,1,2
+".C. Chiozza, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,3,5,2,4,50.0,1,2,50.0,0,0,0.0,0,2,2,1,1,0,0,0,2,0,-1
+".N. Bjelica, .D. Green, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,3,8,3,5,60.0,2,4,50.0,0,0,0.0,0,2,2,2,0,1,0,1,0,0,6
+".D. Green, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,3,6,2,4,50.0,0,1,0.0,2,2,100,0,3,3,2,1,1,0,0,0,1,1
+".S. Curry, .N. Bjelica, .D. Green, .D. Lee, .J. Toscano-Anderson",GSW,1,3,7,3,7,42.9,1,4,25.0,0,0,0.0,1,2,3,3,0,1,0,0,2,0,2
+".A. Iguodala, .S. Curry, .K. Looney, .J. Toscano-Anderson, .J. Poole",GSW,1,2,4,2,5,40.0,0,0,0.0,0,0,0.0,2,2,4,2,2,0,0,0,4,1,2
+".S. Curry, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Kuminga",GSW,1,2,4,1,3,33.3,1,2,50.0,1,2,50.0,1,0,1,1,4,3,0,0,1,2,-1
+".D. Lee, .C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon, .M. Moody",GSW,1,2,3,1,4,25.0,0,2,0.0,1,2,50.0,0,1,1,1,0,0,0,0,0,1,-5
+".K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Kuminga, .J. Dowtin",GSW,1,2,7,2,3,66.7,1,1,100,2,2,100,0,3,3,2,1,0,0,0,2,1,2
+".A. Iguodala, .S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins",GSW,1,2,3,1,5,20.0,1,2,50.0,0,0,0.0,0,0,0,1,1,0,0,1,2,1,-7
+".N. Bjelica, .C. Chiozza, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,4,1,6,16.7,0,3,0.0,2,2,100,2,1,3,1,0,0,0,0,1,1,-2
+".G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,2,5,2,4,50.0,1,2,50.0,0,0,0.0,0,3,3,2,0,0,0,0,1,1,3
+".S. Curry, .N. Bjelica, .D. Green, .A. Wiggins, .C. Chiozza",GSW,1,2,6,2,5,40.0,2,5,40.0,0,0,0.0,1,2,3,1,0,0,0,0,0,0,4
+".A. Iguodala, .N. Bjelica, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,2,3,1,5,20.0,1,3,33.3,0,0,0.0,0,2,2,1,1,1,1,0,3,1,-2
+".K. Thompson, .A. Wiggins, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,2,5,2,6,33.3,1,3,33.3,0,0,0.0,1,2,3,0,0,0,0,1,0,0,-1
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson",GSW,1,2,7,2,3,66.7,1,2,50.0,2,2,100,0,2,2,2,1,2,1,0,2,1,1
+".N. Bjelica, .D. Green, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,2,4,1,5,20.0,1,4,25.0,1,2,50.0,0,1,1,1,0,1,0,0,0,1,1
+".N. Bjelica, .O. Porter Jr., .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,2,6,2,5,40.0,2,4,50.0,0,0,0.0,0,3,3,2,0,0,0,0,1,0,3
+".S. Curry, .N. Bjelica, .D. Green, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,5,2,5,40.0,1,4,25.0,0,0,0.0,1,3,4,1,0,0,0,0,1,0,5
+".S. Curry, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,4,2,6,33.3,0,2,0.0,0,0,0.0,1,1,2,1,0,1,0,0,0,0,0
+".D. Green, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,2,5,2,3,66.7,1,2,50.0,0,0,0.0,0,0,0,1,0,0,0,0,1,0,-3
+".D. Lee, .J. Toscano-Anderson, .J. Poole, .Q. Weatherspoon, .M. Moody",GSW,1,2,4,1,3,33.3,0,1,0.0,2,2,100,0,3,3,1,1,0,0,0,0,1,-1
+".S. Curry, .O. Porter Jr., .K. Looney, .J. Kuminga, .M. Moody",GSW,1,2,2,1,3,33.3,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,1,-6
+".N. Bjelica, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,2,4,2,5,40.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,0,0,1,2,0
+".A. Iguodala, .S. Curry, .N. Bjelica, .A. Wiggins, .G. Payton II",GSW,1,2,7,2,5,40.0,1,3,33.3,2,2,100,1,1,2,2,0,2,0,0,0,1,4
+".S. Curry, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,2,7,3,5,60.0,0,1,0.0,1,1,100,0,3,3,1,0,0,1,1,1,1,5
+".K. Looney, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,8,3,4,75.0,2,2,100,0,0,0.0,0,0,0,0,0,0,0,1,0,0,-1
+".K. Thompson, .D. Green, .D. Lee, .J. Kuminga, .M. Moody",GSW,1,2,4,1,1,100,0,0,0.0,2,4,50.0,0,3,3,1,2,0,0,0,1,2,2
+".D. Green, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,2,1,4,25.0,0,2,0.0,0,0,0.0,0,3,3,0,0,0,0,1,1,0,0
+".O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II, .C. Chiozza",GSW,1,2,2,1,4,25.0,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,0,2,0,-8
+".K. Looney, .G. Payton II, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,2,4,2,4,50.0,0,2,0.0,0,0,0.0,0,1,1,2,0,0,0,0,1,0,-4
+".N. Bjelica, .K. Thompson, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,2,5,2,4,50.0,1,2,50.0,0,0,0.0,0,1,1,1,0,0,0,0,0,0,-5
+".N. Bjelica, .C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon, .J. Kuminga",GSW,1,2,5,2,5,40.0,0,1,0.0,1,2,50.0,0,0,0,2,0,3,1,0,3,1,-1
+".N. Bjelica, .K. Thompson, .D. Lee, .C. Chiozza, .J. Kuminga",GSW,1,2,4,2,4,50.0,0,1,0.0,0,0,0.0,0,0,0,1,1,2,0,0,0,0,-3
+".S. Curry, .K. Thompson, .O. Porter Jr., .A. Wiggins, .D. Lee",GSW,1,2,6,2,5,40.0,2,3,66.7,0,0,0.0,0,2,2,1,1,0,1,1,1,1,-2
+".A. Iguodala, .D. Green, .A. Wiggins, .D. Lee, .J. Toscano-Anderson",GSW,1,2,5,2,3,66.7,1,2,50.0,0,0,0.0,0,0,0,1,0,1,0,0,0,0,0
+".S. Curry, .K. Thompson, .O. Porter Jr., .J. Toscano-Anderson, .J. Poole",GSW,1,2,6,2,3,66.7,2,3,66.7,0,0,0.0,0,2,2,2,1,0,1,0,1,0,1
+".N. Bjelica, .C. Chiozza, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,2,2,1,2,50.0,0,1,0.0,0,0,0.0,0,3,3,1,2,0,1,0,2,2,-2
+".N. Bjelica, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,2,5,2,4,50.0,1,2,50.0,0,0,0.0,0,0,0,1,0,0,0,0,1,0,1
+".K. Thompson, .A. Wiggins, .G. Payton II, .D. Lee, .J. Poole",GSW,1,2,2,1,5,20.0,0,2,0.0,0,0,0.0,0,2,2,1,0,0,0,1,0,0,-4
+".N. Bjelica, .D. Green, .O. Porter Jr., .G. Payton II, .C. Chiozza",GSW,1,2,2,1,4,25.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,0,-5
+".S. Curry, .A. Wiggins, .K. Looney, .D. Lee, .J. Kuminga",GSW,1,2,2,1,3,33.3,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,0,1,0,-4
+".S. Curry, .K. Thompson, .D. Green, .J. Kuminga, .M. Moody",GSW,1,2,0,0,3,0.0,0,3,0.0,0,0,0.0,0,0,0,0,1,1,0,0,0,0,-5
+".A. Iguodala, .K. Thompson, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,2,1,0,2,0.0,0,1,0.0,1,2,50.0,0,1,1,0,1,0,0,0,1,2,-6
+".N. Bjelica, .A. Wiggins, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,2,0,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,1,1,0,0,0,1,-7
+".D. Green, .D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,2,2,1,3,33.3,0,2,0.0,0,0,0.0,0,2,2,1,0,0,0,0,0,0,-1
+".N. Bjelica, .O. Porter Jr., .C. Chiozza, .Q. Weatherspoon, .J. Kuminga",GSW,1,2,5,1,2,50.0,0,1,0.0,3,4,75.0,0,2,2,1,0,0,1,0,0,2,3
+".S. Curry, .N. Bjelica, .K. Thompson, .D. Lee, .J. Toscano-Anderson",GSW,1,2,2,1,1,100,0,0,0.0,0,0,0.0,0,0,0,0,2,0,0,0,1,1,-7
+".A. Iguodala, .D. Green, .O. Porter Jr., .D. Lee, .J. Poole",GSW,1,2,5,2,6,33.3,1,2,50.0,0,0,0.0,2,4,6,1,1,0,0,2,1,2,5
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .J. Toscano-Anderson",GSW,1,2,5,1,4,25.0,1,1,100,2,2,100,1,1,2,1,1,0,0,0,0,1,-2
+".A. Iguodala, .S. Curry, .A. Wiggins, .K. Looney, .J. Toscano-Anderson",GSW,1,2,7,3,4,75.0,1,2,50.0,0,0,0.0,0,2,2,3,0,0,0,0,1,1,2
+".S. Curry, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,2,6,3,5,60.0,0,0,0.0,0,0,0.0,0,2,2,3,0,1,0,0,0,0,1
+".K. Thompson, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Poole",GSW,1,2,3,1,4,25.0,1,3,33.3,0,0,0.0,0,1,1,1,1,0,0,1,0,1,1
+".S. Curry, .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,2,1,3,33.3,0,2,0.0,0,0,0.0,0,3,3,0,1,1,1,0,1,1,2
+".S. Curry, .N. Bjelica, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,2,0,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,1,-5
+".S. Curry, .N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,2,1,2,50.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,0,1,0,-1
+".A. Iguodala, .S. Curry, .D. Green, .A. Wiggins, .G. Payton II",GSW,1,2,0,0,3,0.0,0,2,0.0,0,0,0.0,0,3,3,0,0,0,1,0,2,1,0
+".S. Curry, .G. Payton II, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,7,3,4,75.0,1,1,100,0,0,0.0,0,1,1,1,0,0,0,0,2,0,1
+".K. Thompson, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,5,1,1,100,1,1,100,2,4,50.0,0,1,1,1,0,0,0,0,0,2,0
+".N. Bjelica, .A. Wiggins, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,2,5,2,3,66.7,1,2,50.0,0,0,0.0,0,1,1,1,2,1,0,0,1,0,3
+".S. Curry, .N. Bjelica, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,2,6,1,2,50.0,1,2,50.0,3,3,100,0,1,1,1,1,0,1,0,0,1,2
+".G. Payton II, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,7,3,4,75.0,1,2,50.0,0,0,0.0,0,1,1,3,0,1,0,0,1,0,0
+".N. Bjelica, .D. Green, .C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon",GSW,1,2,2,1,3,33.3,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,1,1,-5
+".K. Thompson, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,2,2,1,1,100,0,0,0.0,0,0,0.0,0,1,1,1,2,0,0,0,3,0,-6
+".S. Curry, .N. Bjelica, .O. Porter Jr., .J. Toscano-Anderson, .M. Moody",GSW,1,2,6,2,3,66.7,0,0,0.0,2,2,100,0,1,1,1,1,0,0,0,1,1,3
+".S. Curry, .N. Bjelica, .O. Porter Jr., .K. Looney, .M. Moody",GSW,1,2,3,1,3,33.3,1,2,50.0,0,0,0.0,0,4,4,1,1,0,0,0,2,1,3
+".A. Iguodala, .D. Green, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,2,0,0,1,0.0,0,0,0.0,0,2,0.0,0,1,1,0,1,0,0,0,0,1,-5
+".S. Curry, .O. Porter Jr., .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,2,3,1,4,25.0,0,3,0.0,1,1,100,0,1,1,0,0,0,0,0,1,1,-5
+".S. Curry, .D. Green, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,1,2,0,0,5,0.0,0,2,0.0,0,0,0.0,1,2,3,0,1,0,0,0,2,0,-4
+".A. Iguodala, .N. Bjelica, .D. Lee, .J. Poole, .M. Moody",GSW,1,2,8,3,3,100,0,0,0.0,2,2,100,0,1,1,3,0,0,0,0,1,1,1
+".N. Bjelica, .G. Payton II, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,4,2,5,40.0,0,2,0.0,0,0,0.0,0,2,2,1,0,0,0,0,0,2,4
+".O. Porter Jr., .D. Lee, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,2,5,1,3,33.3,1,2,50.0,2,2,100,0,4,4,1,0,0,0,0,0,1,5
+".S. Curry, .K. Looney, .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,1,2,7,3,5,60.0,1,3,33.3,0,0,0.0,1,1,2,1,0,0,0,0,0,1,2
+".K. Thompson, .D. Green, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,2,5,1,3,33.3,1,2,50.0,2,2,100,0,0,0,1,0,0,0,0,0,2,-2
+".N. Bjelica, .O. Porter Jr., .D. Lee, .C. Chiozza, .J. Kuminga",GSW,1,2,7,3,4,75.0,1,1,100,0,0,0.0,0,2,2,2,0,1,0,0,0,0,4
+".S. Curry, .D. Green, .A. Wiggins, .K. Looney, .J. Kuminga",GSW,1,2,2,1,2,50.0,0,0,0.0,0,0,0.0,1,2,3,0,2,0,0,0,1,0,-1
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,2,4,1,1,100,0,0,0.0,2,2,100,0,2,2,1,2,0,0,0,1,1,2
+".A. Iguodala, .D. Green, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,2,7,3,4,75.0,1,2,50.0,0,0,0.0,0,3,3,1,0,0,0,0,0,0,5
+".D. Lee, .J. Poole, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,1,2,4,2,2,100,0,0,0.0,0,0,0.0,0,3,3,1,1,1,0,0,0,0,4
+".N. Bjelica, .K. Thompson, .O. Porter Jr., .D. Lee, .J. Poole",GSW,1,2,3,1,3,33.3,1,2,50.0,0,0,0.0,0,2,2,1,0,0,0,0,1,0,-2
+".S. Curry, .N. Bjelica, .D. Green, .C. Chiozza, .J. Kuminga",GSW,1,2,4,0,1,0.0,0,1,0.0,4,5,80.0,0,1,1,0,0,0,0,0,1,2,0
+".K. Thompson, .D. Green, .O. Porter Jr., .K. Looney, .G. Payton II",GSW,1,2,6,2,3,66.7,1,2,50.0,1,2,50.0,0,2,2,2,0,0,1,0,1,1,0
+".A. Iguodala, .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,2,2,1,3,33.3,0,2,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,0,-2
+".N. Bjelica, .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,2,4,2,3,66.7,0,0,0.0,0,0,0.0,0,2,2,2,0,0,0,0,0,0,2
+".K. Looney, .D. Lee, .J. Poole, .Q. Weatherspoon, .J. Kuminga",GSW,1,2,7,3,4,75.0,1,1,100,0,0,0.0,1,1,2,1,0,0,0,0,0,0,1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .J. Kuminga, .M. Moody",GSW,1,2,6,2,3,66.7,2,3,66.7,0,0,0.0,0,0,0,2,0,1,0,0,0,0,4
+".O. Porter Jr., .A. Wiggins, .G. Payton II, .D. Lee, .J. Poole",GSW,1,2,1,0,3,0.0,0,2,0.0,1,2,50.0,0,2,2,0,0,0,0,1,0,1,-1
+".K. Looney, .G. Payton II, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,2,3,1,2,50.0,1,1,100,0,0,0.0,0,1,1,1,1,0,0,1,1,1,-6
+".A. Iguodala, .N. Bjelica, .D. Green, .C. Chiozza, .J. Poole",GSW,1,2,0,0,3,0.0,0,2,0.0,0,0,0.0,0,3,3,0,1,1,1,1,0,0,0
+".C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,2,2,1,2,50.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-4
+".N. Bjelica, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,1,2,5,1,2,50.0,1,1,100,2,2,100,0,2,2,1,1,0,0,0,2,1,-2
+".O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,2,2,1,2,50.0,0,1,0.0,0,0,0.0,0,2,2,1,1,0,0,0,0,1,0
+".O. Porter Jr., .C. Chiozza, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,0,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,2,0,0,0,0,1,-2
+".S. Curry, .A. Wiggins, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,2,9,3,3,100,2,2,100,1,2,50.0,0,1,1,3,0,1,0,0,0,1,7
+".N. Bjelica, .K. Looney, .D. Lee, .C. Chiozza, .M. Moody",GSW,1,2,7,3,3,100,1,1,100,0,0,0.0,0,1,1,2,0,0,0,0,1,0,3
+".S. Curry, .N. Bjelica, .O. Porter Jr., .A. Wiggins, .D. Lee",GSW,1,2,3,1,3,33.3,1,3,33.3,0,0,0.0,0,0,0,1,0,1,0,0,0,1,-2
+".A. Iguodala, .K. Thompson, .A. Wiggins, .K. Looney, .J. Kuminga",GSW,1,2,5,2,3,66.7,1,1,100,0,0,0.0,1,2,3,1,1,0,0,1,2,0,2
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .D. Lee, .J. Poole",GSW,1,2,5,1,3,33.3,0,1,0.0,3,3,100,0,0,0,1,0,1,0,0,1,2,0
+".N. Bjelica, .A. Wiggins, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,2,3,1,2,50.0,0,1,0.0,1,2,50.0,1,2,3,1,0,0,0,0,0,1,3
+".N. Bjelica, .A. Wiggins, .K. Looney, .G. Payton II, .J. Poole",GSW,1,2,2,1,3,33.3,0,1,0.0,0,0,0.0,1,3,4,1,0,0,0,0,0,0,2
+".O. Porter Jr., .A. Wiggins, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,2,0,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,0,1,1,0,0,2,0,-3
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Green, .C. Chiozza",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,2,1,0,1,2,0,-1
+".N. Bjelica, .K. Thompson, .A. Wiggins, .D. Lee, .J. Poole",GSW,1,1,5,2,2,100,1,1,100,0,0,0.0,0,3,3,2,1,0,0,0,1,0,2
+".C. Chiozza, .J. Poole, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,1,6,2,3,66.7,2,3,66.7,0,0,0.0,0,0,0,2,0,0,0,0,2,0,0
+".A. Iguodala, .D. Green, .O. Porter Jr., .A. Wiggins, .J. Poole",GSW,1,1,2,1,3,33.3,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,1,4,1,2,50.0,0,1,0.0,2,2,100,1,1,2,0,0,1,1,0,0,2,2
+".D. Green, .O. Porter Jr., .A. Wiggins, .C. Chiozza, .J. Poole",GSW,1,1,3,1,2,50.0,0,1,0.0,1,2,50.0,0,1,1,1,0,0,0,0,1,1,1
+".K. Thompson, .O. Porter Jr., .K. Looney, .D. Lee, .J. Poole",GSW,1,1,4,2,2,100,0,0,0.0,0,0,0.0,0,2,2,2,0,0,0,0,0,1,2
+".A. Iguodala, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Poole",GSW,1,1,7,2,2,100,1,1,100,2,2,100,0,2,2,2,0,0,0,0,1,1,6
+".N. Bjelica, .K. Thompson, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,1,5,2,4,50.0,1,1,100,0,0,0.0,0,2,2,2,0,1,0,0,0,0,5
+".N. Bjelica, .K. Thompson, .G. Payton II, .J. Poole, .M. Moody",GSW,1,1,1,0,2,0.0,0,2,0.0,1,2,50.0,0,1,1,0,1,1,0,0,1,1,-4
+".S. Curry, .G. Payton II, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,1,6,2,2,100,1,1,100,1,2,50.0,0,0,0,0,0,0,0,0,1,1,0
+".S. Curry, .K. Thompson, .K. Looney, .J. Poole, .M. Moody",GSW,1,1,2,1,3,33.3,0,2,0.0,0,0,0.0,0,1,1,1,0,0,0,0,1,0,-4
+".K. Thompson, .O. Porter Jr., .K. Looney, .C. Chiozza, .Q. Weatherspoon",GSW,1,1,0,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,0,0,1,0
+".S. Curry, .D. Green, .O. Porter Jr., .K. Looney, .M. Moody",GSW,1,1,5,2,3,66.7,1,1,100,0,0,0.0,0,1,1,2,0,0,0,0,1,1,3
+".D. Green, .A. Wiggins, .K. Looney, .D. Lee, .C. Chiozza",GSW,1,1,4,1,4,25.0,1,3,33.3,1,2,50.0,1,2,3,1,0,1,0,0,0,1,4
+".S. Curry, .N. Bjelica, .K. Thompson, .D. Green, .O. Porter Jr.",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,2,2,0,1,0,0,0,1,0,0
+".K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,1,2,0,1,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,1,0,0,1,-2
+".S. Curry, .N. Bjelica, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,1,1,3,1,2,50.0,1,1,100,0,0,0.0,0,0,0,1,1,0,0,1,1,1,1
+".A. Iguodala, .D. Green, .G. Payton II, .D. Lee, .J. Poole",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,2,2,1,2,0,0,0,3,0,-2
+".S. Curry, .K. Thompson, .D. Lee, .J. Toscano-Anderson, .M. Moody",GSW,1,1,4,2,2,100,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,0,2,0,1
+".K. Thompson, .C. Chiozza, .J. Toscano-Anderson, .Q. Weatherspoon, .J. Kuminga",GSW,1,1,2,0,2,0.0,0,2,0.0,2,2,100,0,0,0,0,0,0,0,0,1,1,-2
+".A. Iguodala, .O. Porter Jr., .K. Looney, .D. Lee, .J. Poole",GSW,1,1,0,0,3,0.0,0,2,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,0,-2
+".K. Thompson, .K. Looney, .G. Payton II, .J. Poole, .M. Moody",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,0,-1
+".N. Bjelica, .K. Thompson, .D. Green, .O. Porter Jr., .J. Kuminga",GSW,1,1,0,0,2,0.0,0,1,0.0,0,0,0.0,0,2,2,0,1,0,2,0,0,0,0
+".S. Curry, .G. Payton II, .D. Lee, .J. Kuminga, .M. Moody",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,2,0,0,0,0,0,-4
+".A. Iguodala, .S. Curry, .K. Thompson, .O. Porter Jr., .G. Payton II",GSW,1,1,0,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1,-2
+".S. Curry, .K. Looney, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,1,2,1,2,50.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,0,-1
+".S. Curry, .N. Bjelica, .G. Payton II, .J. Poole, .M. Moody",GSW,1,1,4,1,1,100,1,1,100,1,1,100,0,1,1,1,1,0,0,0,1,1,1
+".A. Iguodala, .S. Curry, .K. Looney, .G. Payton II, .D. Lee",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,-3
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .J. Toscano-Anderson",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,0,-9
+".S. Curry, .D. Green, .K. Looney, .G. Payton II, .J. Poole",GSW,1,1,5,2,4,50.0,1,3,33.3,0,0,0.0,0,4,4,2,1,0,0,0,1,0,5
+".S. Curry, .A. Wiggins, .G. Payton II, .J. Kuminga, .M. Moody",GSW,1,1,2,1,3,33.3,0,1,0.0,0,0,0.0,1,1,2,1,0,0,1,0,1,0,0
+".A. Iguodala, .D. Green, .A. Wiggins, .D. Lee, .M. Moody",GSW,1,1,3,1,3,33.3,0,2,0.0,1,1,100,1,1,2,1,0,0,1,0,0,1,1
+".S. Curry, .N. Bjelica, .D. Green, .G. Payton II, .J. Toscano-Anderson",GSW,1,1,2,1,2,50.0,0,0,0.0,0,0,0.0,0,2,2,1,1,1,1,0,0,1,2
+".S. Curry, .N. Bjelica, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,2,2,1,1,0,0,0,1,0,2
+".K. Thompson, .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,1,5,1,1,100,0,0,0.0,3,3,100,0,2,2,0,1,0,0,0,1,2,3
+".D. Green, .O. Porter Jr., .K. Looney, .D. Lee, .J. Poole",GSW,1,1,2,1,3,33.3,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,0,1,0,-4
+".O. Porter Jr., .K. Looney, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,3,1,3,33.3,1,1,100,0,2,0.0,2,1,3,1,0,0,0,0,0,1,3
+".D. Lee, .C. Chiozza, .J. Poole, .Q. Weatherspoon, .J. Kuminga",GSW,1,1,4,1,3,33.3,0,0,0.0,2,2,100,1,0,1,1,0,0,0,1,1,1,0
+".N. Bjelica, .G. Payton II, .J. Toscano-Anderson, .J. Dowtin, .M. Moody",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,0,2
+".N. Bjelica, .K. Thompson, .A. Wiggins, .J. Poole, .M. Moody",GSW,1,1,3,1,2,50.0,1,1,100,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-1
+".S. Curry, .D. Green, .A. Wiggins, .D. Lee, .C. Chiozza",GSW,1,1,4,0,2,0.0,0,2,0.0,4,4,100,0,2,2,0,0,0,0,0,1,2,4
+".N. Bjelica, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Poole",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,3,3,1,2,0,0,0,0,0,2
+".O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,1,0,0,3,0.0,0,2,0.0,0,0,0.0,0,2,2,0,0,0,0,0,1,0,-2
+".A. Iguodala, .O. Porter Jr., .G. Payton II, .J. Poole, .M. Moody",GSW,1,1,0,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,0,-6
+".N. Bjelica, .J. Poole, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,1,5,2,2,100,1,1,100,0,0,0.0,0,1,1,2,0,0,0,0,1,0,3
+".S. Curry, .D. Green, .D. Lee, .J. Kuminga, .M. Moody",GSW,1,1,5,2,2,100,1,1,100,0,0,0.0,0,1,1,2,0,0,0,0,0,0,5
+".S. Curry, .N. Bjelica, .O. Porter Jr., .J. Toscano-Anderson, .J. Kuminga",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1,0
+".N. Bjelica, .G. Payton II, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,0,0,1,0,1,0,0,1,0,0
+".S. Curry, .D. Green, .O. Porter Jr., .A. Wiggins, .C. Chiozza",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,-3
+".N. Bjelica, .K. Looney, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,2,1,3,33.3,0,2,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,1,-1
+".S. Curry, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,1,3,1,3,33.3,1,3,33.3,0,0,0.0,0,1,1,0,0,0,0,0,0,0,1
+".N. Bjelica, .O. Porter Jr., .A. Wiggins, .C. Chiozza, .J. Poole",GSW,1,1,4,2,2,100,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,0,0,2
+".A. Wiggins, .K. Looney, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,2,0,0,0,0,0,-6
+".A. Iguodala, .A. Wiggins, .K. Looney, .D. Lee, .J. Poole",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-3
+".A. Iguodala, .O. Porter Jr., .D. Lee, .J. Poole, .M. Moody",GSW,1,1,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,1,0,0,0,0,1,0
+".N. Bjelica, .K. Looney, .D. Lee, .J. Toscano-Anderson, .M. Moody",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,2,0,-2
+".A. Wiggins, .K. Looney, .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-6
+".S. Curry, .K. Thompson, .D. Green, .O. Porter Jr., .K. Looney",GSW,1,1,1,0,1,0.0,0,0,0.0,1,2,50.0,1,1,2,0,1,1,0,0,0,1,1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .D. Lee, .M. Moody",GSW,1,1,5,2,4,50.0,1,2,50.0,0,0,0.0,1,1,2,1,1,0,0,0,2,0,4
+".A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,-2
+".D. Lee, .J. Toscano-Anderson, .J. Poole, .J. Kuminga, .J. Dowtin",GSW,1,1,3,1,2,50.0,1,1,100,0,0,0.0,0,0,0,1,0,0,0,0,1,0,-1
+".K. Looney, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga, .M. Moody",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,0,-3
+".N. Bjelica, .O. Porter Jr., .A. Wiggins, .C. Chiozza, .J. Kuminga",GSW,1,1,2,1,3,33.3,0,1,0.0,0,0,0.0,2,0,2,0,0,0,0,0,0,1,0
+".O. Porter Jr., .A. Wiggins, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,0,-3
+".S. Curry, .K. Thompson, .D. Green, .J. Poole, .J. Kuminga",GSW,1,1,0,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,0,1,0,-2
+".O. Porter Jr., .A. Wiggins, .K. Looney, .D. Lee, .C. Chiozza",GSW,1,1,0,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,0,-2
+".A. Iguodala, .S. Curry, .O. Porter Jr., .A. Wiggins, .G. Payton II",GSW,1,1,6,1,1,100,1,1,100,3,3,100,0,1,1,1,0,0,0,0,0,1,2
+".A. Iguodala, .S. Curry, .D. Green, .A. Wiggins, .M. Moody",GSW,1,1,2,1,3,33.3,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,0,-3
+".S. Curry, .A. Wiggins, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,1,2,1,2,50.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".A. Iguodala, .A. Wiggins, .K. Looney, .D. Lee, .C. Chiozza",GSW,1,1,6,2,2,100,2,2,100,0,0,0.0,0,1,1,2,0,0,0,0,0,0,4
+".A. Iguodala, .N. Bjelica, .O. Porter Jr., .G. Payton II, .C. Chiozza",GSW,1,1,2,1,2,50.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,0,0,0,2
+".N. Bjelica, .K. Thompson, .D. Green, .O. Porter Jr., .G. Payton II",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,2,2,1,0,0,0,0,0,0,2
+".A. Iguodala, .S. Curry, .D. Green, .D. Lee, .J. Poole",GSW,1,1,2,1,2,50.0,0,0,0.0,0,0,0.0,0,1,1,1,0,1,0,0,0,1,2
+".O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,1,4,2,3,66.7,0,1,0.0,0,0,0.0,1,0,1,0,0,0,1,0,0,0,4
+".G. Payton II, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,0,-2
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .K. Looney, .J. Poole",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,1,0,-1
+".N. Bjelica, .D. Green, .A. Wiggins, .D. Lee, .J. Poole",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-3
+".S. Curry, .D. Lee, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,1,3,1,2,50.0,1,2,50.0,0,0,0.0,0,1,1,1,0,0,0,0,0,1,3
+".S. Curry, .N. Bjelica, .K. Looney, .J. Toscano-Anderson, .M. Moody",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1,0
+".S. Curry, .O. Porter Jr., .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,1,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,2,-3
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .J. Poole, .M. Moody",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1,-3
+".A. Iguodala, .S. Curry, .D. Green, .O. Porter Jr., .J. Toscano-Anderson",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,1,0,1,0,-2
+".K. Thompson, .G. Payton II, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,1,-1
+".S. Curry, .O. Porter Jr., .A. Wiggins, .J. Poole, .M. Moody",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,-3
+".K. Thompson, .D. Green, .G. Payton II, .D. Lee, .J. Kuminga",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,0,-4
+".N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Poole, .Q. Weatherspoon",GSW,1,1,2,0,0,0.0,0,0,0.0,2,2,100,0,2,2,0,0,0,0,0,1,2,2
+".O. Porter Jr., .A. Wiggins, .K. Looney, .C. Chiozza, .J. Poole",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1,0
+".N. Bjelica, .A. Wiggins, .G. Payton II, .C. Chiozza, .J. Kuminga",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,0,0
+".D. Green, .K. Looney, .D. Lee, .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,0,-2
+".S. Curry, .K. Looney, .D. Lee, .J. Poole, .M. Moody",GSW,1,1,3,1,1,100,0,0,0.0,1,1,100,0,0,0,0,1,1,0,0,2,1,3
+".S. Curry, .O. Porter Jr., .K. Looney, .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,-3
+".S. Curry, .A. Wiggins, .G. Payton II, .D. Lee, .J. Kuminga",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,0,1,0,-3
+".S. Curry, .A. Wiggins, .K. Looney, .D. Lee, .J. Poole",GSW,1,1,3,1,2,50.0,1,1,100,0,0,0.0,0,0,0,1,0,0,0,0,2,0,-1
+".K. Thompson, .D. Green, .O. Porter Jr., .C. Chiozza, .J. Toscano-Anderson",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,0,2
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Green, .J. Poole",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0,0
+".G. Payton II, .D. Lee, .C. Chiozza, .J. Poole, .J. Kuminga",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,0,0
+".K. Thompson, .O. Porter Jr., .G. Payton II, .J. Poole, .M. Moody",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0
+".K. Thompson, .D. Green, .J. Toscano-Anderson, .J. Poole, .Q. Weatherspoon",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".K. Thompson, .O. Porter Jr., .A. Wiggins, .D. Lee, .J. Poole",GSW,1,1,7,3,3,100,0,0,0.0,1,2,50.0,0,0,0,0,0,0,0,0,2,1,4
+".D. Green, .O. Porter Jr., .D. Lee, .J. Poole, .J. Kuminga",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".D. Green, .O. Porter Jr., .G. Payton II, .D. Lee, .J. Poole",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1,-1
+".S. Curry, .N. Bjelica, .K. Thompson, .A. Wiggins, .J. Poole",GSW,1,1,3,1,1,100,0,0,0.0,1,3,33.3,0,0,0,1,0,1,0,0,0,2,3
+".S. Curry, .K. Thompson, .A. Wiggins, .J. Toscano-Anderson, .J. Kuminga",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-5
+".K. Looney, .D. Lee, .J. Kuminga, .J. Dowtin, .M. Moody",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,0,1,0,0
+".S. Curry, .N. Bjelica, .D. Green, .J. Toscano-Anderson, .Q. Weatherspoon",GSW,1,1,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,-3
+".S. Curry, .N. Bjelica, .A. Wiggins, .J. Toscano-Anderson, .J. Poole",GSW,1,1,2,1,1,100,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,-1
+".K. Thompson, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,0
+".O. Porter Jr., .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,1,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,1,0,-1
+".A. Iguodala, .S. Curry, .O. Porter Jr., .A. Wiggins, .J. Kuminga",GSW,1,0,2,1,2,50.0,0,0,0.0,0,0,0.0,0,0,0,1,0,1,0,1,1,0,1
+".K. Thompson, .O. Porter Jr., .G. Payton II, .J. Poole, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,0,3,1,2,50.0,0,1,0.0,1,1,100,0,1,1,1,0,1,0,0,0,1,3
+".S. Curry, .G. Payton II, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".A. Iguodala, .N. Bjelica, .G. Payton II, .J. Poole, .J. Kuminga",GSW,1,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,0,0
+".N. Bjelica, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .M. Moody",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".S. Curry, .O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,0,0,0,0,0,1,1,-2
+".A. Iguodala, .N. Bjelica, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,1,0,0,0
+".N. Bjelica, .K. Thompson, .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,1,0,-1
+".S. Curry, .N. Bjelica, .D. Green, .O. Porter Jr., .D. Lee",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,0,0,0,0
+".K. Thompson, .D. Green, .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,-3
+".A. Iguodala, .D. Green, .A. Wiggins, .K. Looney, .G. Payton II",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-3
+".A. Iguodala, .A. Wiggins, .G. Payton II, .D. Lee, .J. Poole",GSW,1,0,1,0,0,0.0,0,0,0.0,1,1,100,0,0,0,0,0,0,0,0,0,0,1
+".S. Curry, .K. Thompson, .D. Green, .D. Lee, .J. Poole",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .D. Green, .O. Porter Jr., .D. Lee, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,0
+".S. Curry, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,-3
+".G. Payton II, .J. Toscano-Anderson, .J. Poole, .Q. Weatherspoon, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,0,0,1,0,0,1,1,-1
+".A. Iguodala, .S. Curry, .A. Wiggins, .K. Looney, .J. Kuminga",GSW,1,0,1,0,0,0.0,0,0,0.0,1,2,50.0,0,1,1,0,0,0,0,0,0,1,1
+".S. Curry, .D. Green, .O. Porter Jr., .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,0
+".K. Thompson, .D. Green, .O. Porter Jr., .D. Lee, .J. Poole",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,1,2
+".A. Iguodala, .O. Porter Jr., .G. Payton II, .J. Toscano-Anderson, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,0
+".K. Thompson, .D. Green, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2,0
+".S. Curry, .D. Green, .K. Looney, .J. Toscano-Anderson, .Q. Weatherspoon",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".S. Curry, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-1
+".S. Curry, .K. Thompson, .O. Porter Jr., .G. Payton II, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-2
+".K. Thompson, .A. Wiggins, .D. Lee, .J. Poole, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".S. Curry, .N. Bjelica, .D. Green, .O. Porter Jr., .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0
+".K. Thompson, .D. Green, .A. Wiggins, .D. Lee, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".K. Thompson, .G. Payton II, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0
+".N. Bjelica, .K. Thompson, .A. Wiggins, .C. Chiozza, .J. Kuminga",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".S. Curry, .D. Green, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0,0
+".O. Porter Jr., .A. Wiggins, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-3
+".N. Bjelica, .A. Wiggins, .G. Payton II, .C. Chiozza, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-1
+".K. Thompson, .O. Porter Jr., .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".K. Looney, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Poole",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,2,2
+".A. Iguodala, .K. Looney, .G. Payton II, .D. Lee, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".D. Green, .K. Looney, .G. Payton II, .Q. Weatherspoon, .J. Kuminga",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-3
+".S. Curry, .K. Thompson, .D. Lee, .J. Poole, .M. Moody",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,1,2
+".D. Green, .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Iguodala, .D. Green, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,0,0
+".K. Thompson, .K. Looney, .C. Chiozza, .Q. Weatherspoon, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0
+".S. Curry, .D. Green, .K. Looney, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .G. Payton II, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .N. Bjelica, .A. Wiggins, .D. Lee, .J. Toscano-Anderson",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,1,2
+".K. Thompson, .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,3,1,1,100,1,1,100,0,0,0.0,0,0,0,1,0,1,0,0,0,0,3
+".A. Iguodala, .D. Green, .A. Wiggins, .G. Payton II, .C. Chiozza",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,0,0
+".K. Thompson, .O. Porter Jr., .A. Wiggins, .K. Looney, .G. Payton II",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,0,-3
+".A. Iguodala, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,-2
+".K. Thompson, .D. Green, .O. Porter Jr., .G. Payton II, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Poole, .M. Moody",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,1,1,0,0,0,0,0,0,1,2
+".O. Porter Jr., .K. Looney, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .K. Thompson, .D. Green, .A. Wiggins, .K. Looney",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".A. Wiggins, .K. Looney, .G. Payton II, .D. Lee, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,0,0
+".A. Iguodala, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,2,1,1,100,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,0,2
+".A. Iguodala, .S. Curry, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,1,0,-1
+".S. Curry, .O. Porter Jr., .G. Payton II, .D. Lee, .M. Moody",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0,0
+".S. Curry, .K. Thompson, .K. Looney, .D. Lee, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .O. Porter Jr., .A. Wiggins, .G. Payton II, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1,-4
+".S. Curry, .K. Thompson, .A. Wiggins, .D. Lee, .J. Poole",GSW,1,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".K. Thompson, .O. Porter Jr., .K. Looney, .C. Chiozza, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".N. Bjelica, .A. Wiggins, .D. Lee, .C. Chiozza, .J. Poole",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga, .M. Moody",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-2
+".A. Iguodala, .N. Bjelica, .A. Wiggins, .G. Payton II, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".A. Iguodala, .O. Porter Jr., .A. Wiggins, .G. Payton II, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".D. Green, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,1,0,0
+".K. Thompson, .D. Lee, .J. Poole, .J. Kuminga, .M. Moody",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .N. Bjelica, .K. Thompson, .D. Lee, .J. Poole",GSW,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".D. Green, .A. Wiggins, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0,0
+".K. Looney, .G. Payton II, .D. Lee, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .D. Green, .O. Porter Jr., .D. Lee, .J. Poole",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0
+".A. Iguodala, .D. Green, .A. Wiggins, .K. Looney, .D. Lee",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Iguodala, .S. Curry, .K. Thompson, .A. Wiggins, .D. Lee",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,1,0
+".S. Curry, .K. Thompson, .A. Wiggins, .G. Payton II, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-1
+".S. Curry, .A. Wiggins, .G. Payton II, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Iguodala, .S. Curry, .A. Wiggins, .D. Lee, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,0,0
+".O. Porter Jr., .K. Looney, .G. Payton II, .J. Poole, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".K. Thompson, .K. Looney, .J. Toscano-Anderson, .J. Poole, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Iguodala, .S. Curry, .N. Bjelica, .D. Green, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".D. Green, .O. Porter Jr., .A. Wiggins, .D. Lee, .C. Chiozza",GSW,1,0,2,0,0,0.0,0,0,0.0,2,2,100,0,0,0,0,0,0,0,0,0,1,2
+".A. Wiggins, .D. Lee, .C. Chiozza, .J. Toscano-Anderson, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0
+".S. Curry, .N. Bjelica, .O. Porter Jr., .K. Looney, .G. Payton II",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0,0
+".N. Bjelica, .A. Wiggins, .K. Looney, .G. Payton II, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,-2
+".N. Bjelica, .D. Green, .O. Porter Jr., .K. Looney, .G. Payton II",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".A. Iguodala, .S. Curry, .N. Bjelica, .O. Porter Jr., .A. Wiggins",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0,0
+".D. Green, .A. Wiggins, .K. Looney, .G. Payton II, .J. Kuminga",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+".S. Curry, .N. Bjelica, .D. Green, .O. Porter Jr., .K. Looney",GSW,1,0,1,0,0,0.0,0,0,0.0,1,1,100,0,0,0,0,0,0,0,0,0,0,1
+".S. Curry, .O. Porter Jr., .G. Payton II, .C. Chiozza, .J. Toscano-Anderson",GSW,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0

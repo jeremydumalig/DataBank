@@ -1,0 +1,470 @@
+PLAYER,TEAM,AGE,HEIGHT,WEIGHT,COLLEGE,COUNTRY,DRAFT YEAR,DRAFT ROUND,DRAFT NUMBER,GP,PTS,REB,AST,NETRTG,OREB%,DREB%,USG%,TS%,AST%,SEASON
+AJ Price,WAS,26,6-2,185,Connecticut,USA,2009,2,52,57,441,114,205,-2,1.5,7.4,17.7,50.1,27.3,2013
+Aaron Brooks,HOU,28,6-0,161,Oregon,USA,2007,1,26,53,376,80,114,-10,1.3,7.0,17.8,55.5,19.0,2013
+Aaron Gray,TOR,28,7-0,270,Pittsburgh,USA,2007,2,49,42,119,133,33,-8,9.4,18.1,13.1,54.4,10.3,2013
+Al Harrington,ORL,33,6-9,245,None,USA,1998,1,25,10,51,27,10,-17,4.9,19.1,24.2,43.4,14.1,2013
+Al Horford,ATL,27,6-10,250,Florida,Dominican Republic,2007,1,3,74,1289,757,240,3,7.7,20.6,21.9,56.0,14.9,2013
+Al Jefferson,UTA,28,6-10,289,None,USA,2004,1,15,78,1391,720,164,-3,6.3,23.7,25.7,52.2,11.9,2013
+Al-Farouq Aminu,NOH,22,6-9,215,Wake Forest,USA,2010,1,8,76,555,585,103,-1,7.0,23.0,14.3,51.9,7.6,2013
+Alan Anderson,TOR,30,6-6,220,Michigan State,USA,Undrafted,Undrafted,Undrafted,65,693,148,103,-3,2.3,8.4,23.1,50.9,12.5,2013
+Alec Burks,UTA,21,6-6,202,Colorado,USA,2011,1,12,64,451,145,92,4,3.3,9.8,19.6,50.7,12.7,2013
+Alexey Shved,MIN,24,6-6,182,None,Russia,Undrafted,Undrafted,Undrafted,77,665,175,286,-2,2.1,7.5,20.2,47.4,24.8,2013
+Alonzo Gee,CLE,26,6-6,219,Alabama,USA,Undrafted,Undrafted,Undrafted,82,842,320,133,-7,2.8,10.5,16.6,50.5,8.1,2013
+Amar'e Stoudemire,NYK,30,6-11,245,None,USA,2002,1,9,29,413,145,13,3,9.2,13.9,25.4,63.7,3.7,2013
+Amir Johnson,TOR,26,6-9,210,No College,USA,2005,2,56,81,813,611,122,5,10.1,17.2,15.8,59.1,8.5,2013
+Anderson Varejao,CLE,30,6-11,260,None,Brazil,2004,2,30,25,353,361,84,-4,14.1,27.2,17.8,52.9,15.7,2013
+Andray Blatche,BKN,26,6-11,260,None,USA,2005,2,49,82,843,417,85,0,10.4,18.5,25.8,54.7,10.8,2013
+Andre Drummond,DET,19,6-10,270,Connecticut,USA,2012,1,9,60,476,457,30,-2,13.3,23.5,16.7,57.8,4.0,2013
+Andre Iguodala,DEN,29,6-6,207,Arizona,USA,2004,1,9,80,1038,423,433,7,3.0,11.8,18.6,52.0,22.4,2013
+Andre Miller,DEN,37,6-2,200,Utah,USA,1999,1,8,82,786,238,484,4,2.8,8.0,17.6,54.8,32.6,2013
+Andrea Bargnani,TOR,27,7-0,256,None,Italy,2006,1,1,35,443,128,38,-6,2.6,10.7,23.0,48.2,6.4,2013
+Andrei Kirilenko,MIN,32,6-9,235,None,Russia,1999,1,24,64,791,362,177,-1,5.0,13.7,17.0,59.0,14.4,2013
+Andrew Bogut,GSW,28,7-0,260,Utah,Australia,2005,1,1,32,186,245,67,2,8.9,21.2,13.4,46.3,12.1,2013
+Andrew Goudelock,LAL,24,6-3,200,College of Charleston,USA,2011,2,46,1,0,1,0,-84,11.1,0.0,14.3,0.0,0.0,2013
+Andrew Nicholson,ORL,23,6-9,250,St. Bonaventure,Canada,2012,1,19,75,587,258,44,-6,5.6,15.3,21.6,55.7,6.2,2013
+Andris Biedrins,GSW,27,7-0,242,None,Latvia,2004,1,11,53,24,153,14,-6,6.8,21.9,3.7,44.9,3.9,2013
+Antawn Jamison,LAL,37,6-9,235,North Carolina,USA,1998,1,4,76,712,362,50,1,6.6,14.6,18.3,56.1,5.1,2013
+Anthony Davis,NOH,20,6-10,220,Kentucky,USA,2012,1,1,64,867,522,63,-4,9.4,21.3,21.2,55.9,6.0,2013
+Anthony Morrow,DAL,27,6-5,210,Georgia Tech,USA,Undrafted,Undrafted,Undrafted,41,164,30,13,-8,2.9,5.6,18.6,53.0,5.8,2013
+Anthony Randolph,DEN,23,6-11,225,Louisiana State,USA,2008,1,14,39,143,95,12,1,9.1,17.4,21.3,53.4,5.4,2013
+Anthony Tolliver,ATL,28,6-8,240,Creighton,USA,Undrafted,Undrafted,Undrafted,62,253,155,32,-3,3.2,12.8,12.9,53.1,5.2,2013
+Arnett Moultrie,PHI,22,6-10,245,Mississippi State,USA,2012,1,27,47,174,145,10,-7,13.2,13.4,13.5,59.5,3.1,2013
+Aron Baynes,SAS,26,6-10,260,Washington State,Australia,Undrafted,Undrafted,Undrafted,16,43,32,5,1,8.4,13.8,15.8,52.1,5.3,2013
+Arron Afflalo,ORL,27,6-5,215,UCLA,USA,2007,1,27,64,1057,239,206,-8,1.3,9.5,22.4,52.7,14.6,2013
+Austin Daye,MEM,25,6-11,200,Gonzaga,USA,2009,1,15,55,247,123,42,1,2.4,16.1,16.3,55.4,9.3,2013
+Austin Rivers,NOH,20,6-4,200,Duke,USA,2012,1,10,61,377,109,127,-5,1.2,7.0,16.9,43.1,14.2,2013
+Avery Bradley,BOS,22,6-2,180,Texas-Austin,USA,2010,1,19,50,461,111,104,-1,2.3,5.5,18.9,46.1,11.5,2013
+Ben Gordon,CHA,30,6-3,200,Connecticut,USA,2004,1,3,75,840,130,141,-16,1.1,7.6,26.5,51.5,18.0,2013
+Ben Hansbrough,IND,25,6-3,203,Notre Dame,USA,Undrafted,Undrafted,Undrafted,28,57,18,21,-9,0.8,7.1,15.5,50.1,20.2,2013
+Beno Udrih,ORL,30,6-3,203,None,Slovenia,2004,1,28,66,538,141,302,-5,2.2,7.2,18.6,51.6,32.9,2013
+Bernard James,DAL,28,6-10,240,Florida State,USA,2012,2,33,46,131,131,6,-2,10.7,17.3,12.9,54.1,2.0,2013
+Bismack Biyombo,CHA,20,6-9,245,None,DRC,2011,1,7,80,386,582,35,-8,8.8,18.6,10.1,47.2,2.5,2013
+Blake Griffin,LAC,24,6-10,251,Oklahoma,USA,2009,1,1,80,1440,662,299,8,7.7,20.0,25.0,57.2,19.2,2013
+Boris Diaw,SAS,31,6-8,235,None,France,2003,1,21,75,435,254,180,5,4.3,10.9,11.9,60.3,15.2,2013
+Bradley Beal,WAS,20,6-5,207,Florida,USA,2012,1,3,56,780,211,137,-2,2.4,9.6,21.8,51.5,13.6,2013
+Brandan Wright,DAL,25,6-10,210,North Carolina,USA,2007,1,8,64,541,260,38,5,7.7,14.3,18.5,60.6,5.4,2013
+Brandon Bass,BOS,28,6-8,250,Louisiana State,USA,2005,2,33,81,701,425,84,-4,6.3,13.7,15.4,53.5,6.0,2013
+Brandon Jennings,MIL,23,6-1,169,None,USA,2009,1,10,80,1397,246,521,-5,1.9,6.4,23.4,51.0,29.6,2013
+Brandon Knight,DET,21,6-3,189,Kentucky,USA,2011,1,8,75,999,247,303,-3,2.3,8.3,22.3,51.1,21.6,2013
+Brandon Roy,MIN,28,6-6,211,Washington,USA,2006,1,6,5,29,14,23,3,2.9,8.8,17.9,36.8,26.7,2013
+Brandon Rush,GSW,27,6-6,210,Kansas,USA,2008,1,13,2,14,1,2,8,0.0,3.7,20.0,67.8,15.4,2013
+Brendan Haywood,CHA,33,7-0,263,North Carolina,USA,2001,1,20,61,216,290,29,-8,10.2,14.4,11.2,44.1,4.0,2013
+Brian Roberts,NOH,27,6-1,180,Dayton,USA,Undrafted,Undrafted,Undrafted,78,555,97,219,-8,1.3,6.8,21.2,50.9,30.1,2013
+Brook Lopez,BKN,25,7-0,265,Stanford,USA,2008,1,10,74,1437,512,70,6,9.6,13.8,28.2,56.7,6.1,2013
+Byron Mullens,CHA,24,7-0,275,Ohio State,USA,2009,1,24,53,564,337,81,-15,4.6,19.6,21.0,46.5,10.2,2013
+C.J. Watson,BKN,29,6-2,175,Tennessee,USA,Undrafted,Undrafted,Undrafted,80,543,145,161,1,2.5,7.5,16.8,54.4,17.8,2013
+CJ Miles,CLE,26,6-6,222,No College,USA,2005,2,34,65,729,174,63,-3,1.7,11.4,23.4,55.1,8.3,2013
+Carl Landry,GSW,29,6-9,248,Purdue,USA,2007,2,31,81,874,483,65,-1,9.8,15.8,19.5,60.5,5.6,2013
+Carlos Boozer,CHI,31,6-9,266,Duke,USA,2002,2,34,79,1281,771,179,-2,6.9,24.4,25.5,51.0,13.2,2013
+Carlos Delfino,HOU,30,6-6,230,None,Argentina,2003,1,25,67,708,220,135,7,1.0,11.8,18.1,54.9,12.5,2013
+Carmelo Anthony,NYK,29,6-8,230,Syracuse,USA,2003,1,3,67,1920,460,171,6,5.5,14.2,34.9,56.0,13.7,2013
+Caron Butler,LAC,33,6-7,228,Connecticut,USA,2002,1,10,78,813,223,78,7,2.3,10.5,19.9,53.5,6.3,2013
+Cartier Martin,WAS,28,6-7,220,Kansas State,USA,Undrafted,Undrafted,Undrafted,41,270,100,20,-3,1.5,12.5,19.1,51.1,4.9,2013
+Chandler Parsons,HOU,24,6-9,227,Florida,USA,2011,2,38,76,1177,404,269,3,2.9,11.7,18.2,58.4,15.7,2013
+Charles Jenkins,PHI,24,6-3,215,Hofstra,USA,2011,2,44,59,111,32,44,-3,1.7,5.0,14.5,42.5,16.7,2013
+Charlie Villanueva,DET,28,6-11,232,Connecticut,USA,2005,1,7,69,467,241,54,-5,4.3,18.1,21.2,48.1,8.2,2013
+Chase Budinger,MIN,25,6-7,218,Arizona,USA,2009,2,44,23,216,71,25,2,2.9,11.4,20.3,51.6,8.0,2013
+Chauncey Billups,LAC,36,6-3,210,Colorado,USA,1997,1,3,22,184,32,49,5,0.5,8.5,19.4,60.1,16.8,2013
+Chris Andersen,MIA,34,6-10,228,Blinn J.C.,USA,Undrafted,Undrafted,Undrafted,42,207,172,17,7,10.2,18.0,14.0,63.1,4.5,2013
+Chris Bosh,MIA,29,6-11,235,Georgia Tech,USA,2003,1,4,74,1232,501,123,10,6.4,15.3,22.5,59.2,8.1,2013
+Chris Copeland,NYK,29,6-8,225,Colorado,USA,Undrafted,Undrafted,Undrafted,56,486,119,27,4,4.1,10.4,25.0,58.3,5.5,2013
+Chris Douglas-Roberts,DAL,26,6-7,210,Memphis,USA,2008,2,40,6,17,5,4,-9,0.0,8.2,13.8,46.2,10.3,2013
+Chris Duhon,LAL,30,6-1,190,Duke,USA,2004,2,38,46,133,68,133,-1,1.3,6.6,8.9,51.7,23.6,2013
+Chris Johnson,MIN,27,6-11,210,Louisiana State,USA,Undrafted,Undrafted,Undrafted,30,117,60,8,-4,7.6,13.7,16.5,65.0,4.2,2013
+Chris Johnson,MEM,23,6-6,201,Dayton,USA,Undrafted,Undrafted,Undrafted,8,29,11,2,19,4.6,6.2,12.1,56.0,2.5,2013
+Chris Kaman,DAL,31,7-0,265,Central Michigan,USA,2003,1,6,66,693,372,51,-5,7.5,20.3,25.1,52.9,6.6,2013
+Chris Paul,LAC,28,6-0,175,Wake Forest,USA,2005,1,4,70,1186,262,678,10,2.4,9.6,22.3,59.4,44.3,2013
+Chris Quinn,CLE,29,6-2,175,Notre Dame,USA,Undrafted,Undrafted,Undrafted,7,10,2,9,8,1.3,1.5,13.1,29.6,15.5,2013
+Chris Singleton,WAS,23,6-8,230,Florida State,USA,2011,1,18,57,231,184,37,-4,5.4,14.6,15.4,42.5,6.5,2013
+Chris Wilcox,BOS,30,6-10,235,Maryland,USA,2002,1,8,61,259,180,22,-2,7.2,14.1,11.7,72.5,4.1,2013
+Chris Wright,DAL,23,6-1,210,Georgetown,USA,Undrafted,Undrafted,Undrafted,3,2,0,0,-81,0.0,0.0,20.0,50.0,0.0,2013
+Chuck Hayes,SAC,30,6-6,250,Kentucky,USA,Undrafted,Undrafted,Undrafted,74,198,299,112,-1,9.1,15.6,9.3,46.9,13.5,2013
+Cole Aldrich,SAC,24,6-11,240,Kansas,USA,2010,1,11,45,100,120,9,2,7.5,22.0,12.1,56.3,3.2,2013
+Corey Brewer,DEN,27,6-9,188,Florida,USA,2007,1,7,82,990,235,124,4,2.7,8.4,22.8,50.6,9.7,2013
+Corey Maggette,DET,33,6-6,225,Duke,USA,1999,1,13,18,95,25,19,-4,1.8,7.9,19.7,48.9,12.1,2013
+Cory Higgins,CHA,24,6-5,180,Colorado,USA,Undrafted,Undrafted,Undrafted,6,14,3,5,-13,3.2,5.7,27.4,35.2,27.8,2013
+Cory Joseph,SAS,21,6-3,185,Texas,Canada,2011,1,29,28,126,52,53,0,3.1,10.2,15.7,52.8,19.9,2013
+Courtney Lee,BOS,27,6-5,200,Western Kentucky,USA,2008,1,22,78,612,190,143,-2,1.8,8.4,15.5,54.5,11.6,2013
+D.J. Augustin,IND,25,6-0,183,Texas-Austin,USA,2008,1,9,76,356,91,170,-3,1.6,5.7,14.4,52.7,24.2,2013
+DJ White,BOS,26,6-9,250,Indiana,USA,2008,1,29,12,29,13,4,15,5.3,10.0,15.8,53.8,7.0,2013
+DaJuan Summers,LAC,25,6-8,240,Georgetown,USA,2009,2,35,2,2,2,1,0,0.0,33.3,28.6,25.0,25.0,2013
+Daequan Cook,CHI,26,6-5,210,Ohio State,USA,2007,1,21,49,137,61,19,-5,1.5,12.9,18.1,39.8,7.2,2013
+Dahntay Jones,ATL,32,6-6,225,Duke,USA,2003,1,20,78,262,101,48,-4,2.4,7.2,13.5,48.2,7.0,2013
+Damian Lillard,POR,22,6-3,195,Weber State,USA,2012,1,6,82,1562,257,531,-2,1.4,7.0,23.7,54.6,28.0,2013
+Damien Wilkins,PHI,33,6-6,225,Georgia,USA,Undrafted,Undrafted,Undrafted,61,388,105,91,-5,2.9,6.9,17.1,53.3,13.4,2013
+Damion James,BKN,25,6-7,225,Texas-Austin,USA,2010,1,24,2,0,1,0,-25,0.0,33.3,0.0,0.0,0.0,2013
+Daniel Gibson,CLE,27,6-2,200,Texas,USA,2006,2,42,46,250,60,82,-12,0.5,6.7,14.0,47.5,14.7,2013
+Daniel Orton,OKC,22,6-10,255,Kentucky,USA,2010,1,29,13,33,26,4,-7,11.3,12.1,15.6,49.3,6.2,2013
+Danilo Gallinari,DEN,24,6-10,225,None,Italy,2008,1,6,71,1149,367,176,7,2.8,13.0,21.0,56.1,11.3,2013
+Danny Granger,IND,30,6-8,228,New Mexico,USA,2005,1,17,5,27,9,3,-10,4.3,8.1,26.2,35.0,7.9,2013
+Danny Green,SAS,26,6-6,210,North Carolina,USA,2009,2,46,80,838,244,141,8,1.8,9.2,16.4,60.0,9.5,2013
+Dante Cunningham,MIN,26,6-8,230,Villanova,USA,2009,2,33,80,695,408,67,-2,6.9,13.9,17.0,48.5,5.6,2013
+Darius Johnson-Odom,LAL,23,6-2,215,Marquette,USA,2012,2,55,4,0,4,1,-56,8.3,20.0,22.2,0.0,33.3,2013
+Darius Miller,NOH,23,6-8,235,Kentucky,USA,2012,2,46,52,118,78,44,-4,1.2,11.1,8.9,52.9,10.0,2013
+Darius Morris,LAL,22,6-4,190,Michigan,USA,2011,2,41,48,194,57,76,0,3.4,4.5,15.6,47.5,17.5,2013
+Darko Milicic,BOS,28,7-0,275,None,Serbia,2003,1,2,1,0,1,0,-30,0.0,25.0,23.1,0.0,0.0,2013
+Darrell Arthur,MEM,25,6-9,235,Kansas,USA,2008,1,27,59,362,169,33,-5,7.0,11.0,19.6,47.7,6.0,2013
+Darren Collison,DAL,25,6-0,175,UCLA,USA,2009,1,21,81,972,219,415,-2,1.4,7.8,19.0,57.5,26.4,2013
+David Lee,GSW,30,6-9,240,Florida,USA,2005,1,30,79,1459,886,279,3,7.8,22.1,23.0,56.1,15.8,2013
+David West,IND,32,6-9,250,Xavier,USA,2003,1,18,73,1250,563,213,8,6.2,16.7,24.3,54.5,15.7,2013
+DeAndre Jordan,LAC,24,6-11,265,Texas A&M,USA,2008,2,35,82,724,594,28,8,11.4,20.7,15.8,60.6,2.0,2013
+DeAndre Liggins,OKC,25,6-6,209,Kentucky,USA,2011,2,53,39,58,53,15,-5,4.5,13.8,10.4,52.8,7.7,2013
+DeJuan Blair,SAS,24,6-7,270,Pittsburgh,USA,2009,2,37,61,328,230,45,-1,8.2,19.2,18.3,54.3,8.4,2013
+DeMar DeRozan,TOR,23,6-7,216,Southern California,USA,2009,1,9,82,1485,320,204,-2,1.6,9.5,23.8,52.3,12.0,2013
+DeMarcus Cousins,SAC,22,6-11,270,Kentucky,USA,2010,1,5,75,1280,746,199,-6,9.7,24.5,27.8,52.4,15.4,2013
+DeMarre Carroll,UTA,26,6-8,212,Missouri,USA,2009,1,27,66,393,188,61,6,8.1,9.6,15.8,53.5,8.5,2013
+DeQuan Jones,ORL,23,6-8,221,Miami,USA,Undrafted,Undrafted,Undrafted,63,233,105,16,-11,2.0,11.0,14.6,48.5,3.0,2013
+DeSagana Diop,CHA,31,7-0,280,None,Senegal,2001,1,8,22,16,51,13,-7,4.4,16.7,6.9,29.2,8.7,2013
+DeShawn Stevenson,ATL,32,6-5,218,None,USA,2000,1,23,56,284,122,52,-2,1.6,9.2,11.6,52.2,6.3,2013
+Derek Fisher,OKC,38,6-1,210,Arkansas-Little Rock,USA,1996,1,24,33,175,37,47,6,0.4,6.1,16.4,49.2,11.7,2013
+Deron Williams,BKN,29,6-3,209,Illinois,USA,2005,1,3,78,1476,232,604,3,1.0,7.6,23.8,57.4,36.4,2013
+Derrick Favors,UTA,21,6-10,248,Georgia Tech,USA,2010,1,3,77,727,546,75,0,10.3,21.0,20.1,53.3,7.1,2013
+Derrick Williams,MIN,22,6-8,241,Arizona,USA,2011,1,2,78,933,430,46,-5,5.0,18.3,23.4,51.5,4.4,2013
+Devin Ebanks,LAL,23,6-9,215,West Virginia,USA,2010,2,43,19,65,41,10,-6,4.5,14.4,19.4,41.1,9.4,2013
+Devin Harris,ATL,30,6-3,192,Wisconsin,USA,2004,1,5,58,577,116,197,6,0.4,7.6,19.1,56.5,21.5,2013
+Dexter Pittman,MEM,25,6-11,285,Texas-Austin,USA,2010,2,32,11,8,12,0,-43,20.6,15.6,19.0,32.5,0.0,2013
+Diante Garrett,PHX,24,6-4,190,Iowa State,USA,Undrafted,Undrafted,Undrafted,19,40,15,31,-14,3.0,6.8,19.6,37.5,35.2,2013
+Dion Waiters,CLE,21,6-4,215,Syracuse,USA,2012,1,4,61,894,149,183,-4,1.2,8.1,25.8,49.2,17.8,2013
+Dirk Nowitzki,DAL,35,7-0,245,None,Germany,1998,1,9,53,917,363,132,1,2.3,19.9,24.0,56.4,13.2,2013
+Dominic McGuire,IND,27,6-9,235,Fresno State,USA,2007,2,47,26,51,78,20,-12,5.1,16.5,8.8,42.2,8.0,2013
+Dominique Jones,DAL,24,6-5,215,South Florida,USA,2010,1,25,29,116,45,83,-2,5.3,7.5,22.7,43.8,40.3,2013
+Donald Sloan,NOH,25,6-3,205,Texas A&M,USA,Undrafted,Undrafted,Undrafted,23,81,28,38,-13,1.0,9.8,17.1,45.5,28.4,2013
+Donatas Motiejunas,HOU,22,7-0,222,None,Lithuania,2011,1,20,44,250,93,31,4,6.9,10.5,22.0,53.1,9.1,2013
+Dorell Wright,PHI,27,6-9,205,None,USA,2004,1,19,79,729,302,150,-6,2.2,15.2,18.1,55.1,13.8,2013
+Doron Lamb,ORL,21,6-4,210,Kentucky,USA,2012,2,42,47,154,46,32,-7,1.3,6.7,15.2,43.3,8.5,2013
+Draymond Green,GSW,23,6-7,230,Michigan State,USA,2012,2,35,79,227,260,53,-1,5.5,17.8,13.5,40.4,7.6,2013
+Drew Gooden,MIL,31,6-10,250,Kansas,USA,2002,1,4,16,52,31,6,-5,7.6,11.8,21.3,38.2,6.5,2013
+Dwight Howard,LAL,27,6-11,265,None,USA,2004,1,1,76,1296,945,108,3,9.4,24.4,22.3,57.3,6.8,2013
+Dwyane Wade,MIA,31,6-4,220,Marquette,USA,2003,1,5,69,1463,344,352,12,4.2,11.2,28.8,57.1,24.8,2013
+E'Twaun Moore,ORL,24,6-4,191,Purdue,USA,2011,2,55,75,588,167,206,-9,2.8,7.2,19.2,47.1,19.5,2013
+Earl Barron,NYK,31,7-0,250,Memphis,USA,Undrafted,Undrafted,Undrafted,12,39,61,5,-6,11.1,26.0,17.3,36.1,5.4,2013
+Earl Clark,LAL,25,6-10,225,Louisville,USA,2009,1,14,59,428,325,65,-4,6.1,17.2,15.4,51.0,7.3,2013
+Earl Watson,UTA,34,6-1,199,UCLA,USA,2001,2,39,48,96,87,190,-3,2.8,8.6,10.4,36.6,32.6,2013
+Ed Davis,MEM,24,6-10,232,North Carolina,USA,2010,1,13,81,623,460,63,0,9.7,20.1,17.5,56.1,6.6,2013
+Eddy Curry,DAL,30,7-0,295,None,USA,2001,1,4,2,9,4,0,11,8.7,6.7,22.8,46.1,0.0,2013
+Ekpe Udoh,MIL,26,6-10,245,Baylor,USA,2010,1,6,76,323,251,43,-2,8.1,10.5,12.1,50.3,4.9,2013
+Elton Brand,DAL,34,6-9,254,Duke,USA,1999,1,1,72,518,430,70,-2,8.8,18.9,16.7,49.9,7.2,2013
+Emeka Okafor,WAS,30,6-10,255,Connecticut,USA,2004,1,2,79,765,692,93,-1,9.5,23.9,19.3,49.6,7.7,2013
+Enes Freedom,UTA,21,6-11,267,None,Turkey,2011,1,3,70,506,304,31,5,12.5,15.5,20.6,58.8,5.0,2013
+Eric Bledsoe,LAC,23,6-1,195,Kentucky,USA,2010,1,18,76,643,225,233,4,5.3,9.4,21.9,51.3,24.9,2013
+Eric Gordon,NOH,24,6-3,215,Indiana,USA,2008,1,7,42,713,77,137,-2,0.8,5.8,28.1,52.3,18.3,2013
+Eric Maynor,POR,26,6-3,175,Virginia Commonwealth,USA,2009,1,20,64,291,46,182,-3,1.0,4.0,18.1,47.2,29.5,2013
+Ersan Ilyasova,MIL,26,6-10,235,None,Turkey,2005,2,36,73,962,520,117,0,7.2,18.5,20.2,55.2,9.2,2013
+Evan Fournier,DEN,20,6-6,200,None,France,2012,1,20,38,202,35,44,7,1.4,6.0,19.8,59.7,15.3,2013
+Evan Turner,PHI,24,6-7,220,Ohio State,USA,2010,1,2,82,1094,517,354,-4,1.9,16.2,20.9,47.8,19.2,2013
+Fab Melo,BOS,23,7-0,255,Syracuse,Brazil,2012,1,22,6,7,3,0,-13,0.0,7.3,11.3,45.1,0.0,2013
+Festus Ezeli,GSW,23,6-11,255,Vanderbilt,Nigeria,2012,1,30,78,191,313,22,-1,12.6,14.7,10.6,46.7,2.8,2013
+Francisco Garcia,HOU,31,6-7,195,Louisville,Dominican Republic,2005,1,23,58,321,91,63,-2,0.8,8.0,14.6,51.9,9.5,2013
+Garrett Temple,WAS,27,6-6,195,Louisiana State,USA,Undrafted,Undrafted,Undrafted,51,262,123,115,0,2.5,8.2,13.0,47.8,15.1,2013
+Gary Neal,SAS,28,6-4,210,Towson,USA,Undrafted,Undrafted,Undrafted,68,645,143,129,4,0.9,8.5,21.1,51.2,13.7,2013
+George Hill,IND,27,6-2,190,Indiana-Purdue Indianapolis,USA,2008,1,26,76,1076,284,355,9,1.8,8.7,18.4,55.8,22.0,2013
+Gerald Green,IND,27,6-8,210,No College,USA,2005,1,18,60,421,141,50,-1,2.7,9.5,20.7,46.5,8.7,2013
+Gerald Henderson,CHA,25,6-5,215,Duke,USA,2009,1,12,68,1055,250,177,-10,2.5,9.7,23.2,53.1,15.2,2013
+Gerald Wallace,BKN,30,6-7,220,Alabama,USA,2001,1,25,69,531,319,181,4,3.4,12.4,14.3,49.0,13.1,2013
+Glen Davis,ORL,27,6-9,289,Louisiana State,USA,2007,2,35,34,512,246,70,-1,5.3,18.2,25.5,48.3,11.5,2013
+Goran Dragic,PHX,27,6-3,190,None,Slovenia,2008,2,45,77,1134,238,569,-5,2.3,7.3,21.3,54.0,34.4,2013
+Gordon Hayward,UTA,23,6-8,210,Butler,USA,2010,1,9,72,1017,225,213,3,2.5,8.7,21.1,56.4,16.3,2013
+Grant Hill,LAC,40,6-8,225,Duke,USA,1994,1,3,29,93,49,26,0,1.4,9.5,13.8,42.8,9.0,2013
+Greg Monroe,DET,23,6-11,250,Georgetown,USA,2010,1,7,81,1298,777,281,-5,8.9,21.2,24.4,52.7,18.9,2013
+Greg Smith,HOU,22,6-10,250,Fresno State,USA,Undrafted,Undrafted,Undrafted,70,421,321,25,6,9.9,18.0,14.4,63.6,3.6,2013
+Greg Stiemsma,MIN,27,6-11,260,Wisconsin,USA,Undrafted,Undrafted,Undrafted,76,307,261,30,-3,5.0,17.6,13.6,49.8,4.0,2013
+Greivis Vasquez,NOH,26,6-6,211,Maryland,Venezuela,2010,1,28,78,1083,337,704,-3,1.7,11.9,22.7,50.2,43.2,2013
+Gustavo Ayon,MIL,28,6-10,250,None,Mexico,Undrafted,Undrafted,Undrafted,55,204,199,71,0,8.5,18.5,14.1,54.0,14.2,2013
+Hakim Warrick,CHA,30,6-9,219,Syracuse,USA,2005,1,19,28,194,89,25,-12,4.2,14.1,21.5,47.6,9.1,2013
+Hamed Haddadi,PHX,28,7-2,265,None,Iran,Undrafted,Undrafted,Undrafted,30,84,111,12,0,12.2,20.3,16.4,44.7,5.8,2013
+Harrison Barnes,GSW,21,6-8,210,North Carolina,USA,2012,1,7,81,748,333,98,2,2.6,12.9,17.4,52.6,7.2,2013
+Hasheem Thabeet,OKC,26,7-3,263,Connecticut,Tanzania,2009,1,2,66,160,195,11,10,10.0,15.6,9.8,61.9,2.1,2013
+Hedo Turkoglu,ORL,34,6-10,220,None,Turkey,2000,1,16,11,32,26,23,-23,2.1,11.6,16.7,28.8,20.0,2013
+Henry Sims,NOH,23,6-10,245,Georgetown,USA,Undrafted,Undrafted,Undrafted,2,4,2,0,21,33.3,0.0,36.4,66.7,0.0,2013
+Ian Mahinmi,IND,26,6-11,230,None,France,2005,1,28,80,402,311,27,-5,8.6,15.1,17.2,49.7,3.8,2013
+Iman Shumpert,NYK,23,6-5,220,Georgia Tech,USA,2011,1,17,45,305,136,75,1,3.2,11.3,15.5,51.6,12.0,2013
+Isaiah Thomas,SAC,24,5-9,185,Washington,USA,2011,2,60,79,1100,161,316,-3,1.4,6.5,22.4,57.4,24.3,2013
+Ish Smith,MIL,24,6-0,175,Wake Forest,USA,Undrafted,Undrafted,Undrafted,52,123,61,87,-4,2.1,9.1,16.8,37.9,25.6,2013
+Ivan Johnson,ATL,29,6-8,255,California State-San Bernardino,USA,Undrafted,Undrafted,Undrafted,69,452,266,46,-1,7.5,18.7,20.7,54.6,7.9,2013
+J.J. Barea,MIN,29,6-0,175,Northeastern,Puerto Rico,Undrafted,Undrafted,Undrafted,74,834,207,294,-2,1.9,10.4,24.2,51.0,30.1,2013
+JJ Hickson,POR,24,6-9,242,North Carolina State,USA,2008,1,19,80,1018,828,88,-5,11.7,25.1,19.6,59.1,6.5,2013
+JJ Redick,MIL,29,6-4,190,Duke,USA,2006,1,11,78,1100,171,296,-2,0.7,6.5,20.3,57.1,19.3,2013
+JR Smith,NYK,27,6-6,220,No College,USA,2004,1,18,80,1446,425,218,6,2.4,14.2,26.0,52.2,14.7,2013
+JaVale McGee,DEN,25,7-0,252,Nevada,USA,2008,1,18,79,717,381,24,3,11.3,14.1,20.6,58.9,2.7,2013
+Jae Crowder,DAL,22,6-6,235,Marquette,USA,2012,2,34,78,392,187,94,0,2.6,11.2,14.6,49.1,10.3,2013
+Jamaal Tinsley,UTA,35,6-3,197,Iowa State,USA,2001,1,27,66,229,115,290,1,1.5,8.2,13.3,46.7,35.4,2013
+Jamal Crawford,LAC,33,6-5,200,Michigan,USA,2000,1,8,76,1255,128,193,8,1.0,4.7,25.2,55.8,14.8,2013
+Jameer Nelson,ORL,31,6-0,190,St. Joseph's (PA),USA,2004,1,20,56,822,209,413,-5,1.2,9.6,22.3,49.8,32.6,2013
+James Anderson,HOU,24,6-6,215,Oklahoma State,USA,2010,1,20,39,149,72,42,12,4.7,12.5,16.9,53.9,14.4,2013
+James Harden,HOU,23,6-5,220,Arizona State,USA,2009,1,3,78,2023,379,455,3,2.1,10.5,28.5,60.0,25.7,2013
+James Johnson,SAC,26,6-9,248,Wake Forest,USA,2009,1,16,54,276,145,58,-15,5.3,11.6,18.7,44.2,11.0,2013
+James Jones,MIA,32,6-8,215,Miami,USA,2003,2,49,38,60,22,13,-7,0.0,8.8,13.5,47.8,11.0,2013
+James White,NYK,30,6-7,215,Cincinnati,USA,2006,2,31,57,125,48,29,-9,1.1,10.5,14.8,50.3,10.7,2013
+Jan Vesely,WAS,23,6-11,240,None,Czech Republic,2011,1,6,51,126,122,28,-2,7.4,13.3,12.1,48.0,6.9,2013
+Jannero Pargo,CHA,33,6-1,185,Arkansas,USA,Undrafted,Undrafted,Undrafted,32,207,35,67,-9,2.1,5.7,23.3,47.5,23.3,2013
+Jared Cunningham,DAL,22,6-4,195,Oregon State,USA,2012,1,24,8,16,3,1,-12,4.2,7.1,27.9,53.8,11.1,2013
+Jared Dudley,PHX,27,6-7,225,Boston College,USA,2007,1,22,79,861,245,203,-3,3.5,7.9,17.0,58.2,14.7,2013
+Jared Jeffries,POR,31,6-11,240,Indiana,USA,2002,1,11,38,44,60,14,0,7.7,10.3,10.4,34.3,5.8,2013
+Jared Sullinger,BOS,21,6-9,260,Ohio State,USA,2012,1,21,45,270,264,35,4,11.2,19.5,14.6,53.4,6.2,2013
+Jarrett Jack,GSW,29,6-3,197,Georgia Tech,USA,2005,1,22,79,1023,243,439,2,0.9,8.9,20.7,54.2,30.0,2013
+Jarvis Varnado,MIA,25,6-9,230,Mississippi State,USA,2010,2,41,13,8,9,3,-23,3.8,11.3,12.5,45.7,10.7,2013
+Jason Collins,WAS,34,7-0,255,Stanford,USA,2001,1,18,38,41,60,8,3,5.9,10.0,7.3,47.6,2.9,2013
+Jason Kidd,NYK,40,6-4,210,California,USA,1994,1,2,76,458,323,249,5,2.4,14.4,11.3,53.2,17.8,2013
+Jason Maxiell,DET,30,6-7,260,Cincinnati,USA,2005,1,26,72,498,409,54,-6,7.7,16.0,15.5,47.8,4.9,2013
+Jason Richardson,PHI,32,6-6,225,Michigan State,USA,2001,1,5,33,347,127,51,-1,2.0,12.1,18.3,49.5,8.1,2013
+Jason Smith,NOH,27,7-0,240,Colorado State,USA,2007,1,20,51,420,186,34,-3,7.7,14.4,23.4,54.4,7.2,2013
+Jason Terry,BOS,35,6-2,180,Arizona,USA,1999,1,10,79,799,159,198,0,1.0,6.7,17.3,56.6,15.2,2013
+Jason Thompson,SAC,26,6-11,250,Rider,USA,2008,1,12,82,891,549,84,-5,7.6,17.5,18.2,53.3,5.9,2013
+Jeff Adrien,CHA,27,6-7,243,Connecticut,USA,Undrafted,Undrafted,Undrafted,52,209,196,36,-7,9.1,18.7,15.4,49.3,8.2,2013
+Jeff Ayres,IND,26,6-9,250,Arizona State,USA,2009,2,31,37,145,104,15,7,8.0,17.7,18.3,53.3,6.8,2013
+Jeff Green,BOS,26,6-9,235,Georgetown,USA,2007,1,5,81,1036,318,128,-1,2.6,11.5,21.6,56.1,10.0,2013
+Jeff Teague,ATL,25,6-2,181,Wake Forest,USA,2009,1,19,80,1166,180,579,1,1.0,6.0,22.6,54.3,34.8,2013
+Jeffery Taylor,CHA,24,6-7,225,Vanderbilt,Sweden,2012,2,31,77,472,150,63,-9,3.3,6.6,14.7,53.1,7.2,2013
+Jeremy Evans,UTA,25,6-9,194,Western Kentucky,USA,2010,2,55,37,75,58,11,5,11.9,14.5,12.5,64.1,7.6,2013
+Jeremy Lamb,OKC,21,6-5,180,Connecticut,USA,2012,1,12,23,71,18,5,-17,3.2,8.8,23.8,47.9,6.3,2013
+Jeremy Lin,HOU,24,6-3,200,Harvard,USA,Undrafted,Undrafted,Undrafted,82,1095,247,497,3,1.3,8.1,20.6,53.8,29.0,2013
+Jeremy Pargo,PHI,27,6-2,219,Gonzaga,USA,2009,0,0,39,265,49,92,-8,1.1,6.7,22.4,47.8,25.4,2013
+Jeremy Tyler,ATL,22,6-10,260,None,USA,2011,2,39,21,22,20,1,2,8.3,18.7,19.6,41.3,2.8,2013
+Jermaine O'Neal,PHX,34,6-11,255,None,USA,1996,1,17,55,454,293,42,-7,8.1,20.4,21.7,53.8,7.4,2013
+Jerry Stackhouse,BKN,38,6-6,218,North Carolina,USA,1995,1,3,37,182,33,35,1,0.9,5.6,16.6,50.0,10.7,2013
+Jerryd Bayless,MEM,24,6-3,200,Arizona,USA,2008,1,11,80,693,176,264,1,1.3,9.2,20.2,51.4,25.4,2013
+Jimmer Fredette,SAC,24,6-2,195,Brigham Young,USA,2011,1,10,69,494,71,92,-4,1.9,5.6,22.9,54.6,15.4,2013
+Jimmy Butler,CHI,23,6-7,220,Marquette,USA,2011,1,30,82,705,328,115,2,6.4,9.2,14.4,57.4,8.8,2013
+Joakim Noah,CHI,28,6-11,232,Florida,USA,2007,1,9,66,784,733,262,2,11.0,19.3,17.0,53.4,17.6,2013
+Jodie Meeks,LAL,25,6-4,208,Kentucky,USA,2009,2,41,78,618,171,69,1,2.2,7.6,16.1,54.0,6.6,2013
+Joe Johnson,BKN,32,6-7,240,Arkansas,USA,2001,1,10,72,1170,218,253,6,2.1,6.6,21.6,52.1,16.3,2013
+Joel Anthony,MIA,30,6-9,245,UNLV,Canada,Undrafted,Undrafted,Undrafted,62,87,115,13,1,8.8,12.3,8.3,54.2,3.4,2013
+Joel Freeland,POR,26,6-10,225,None,United Kingdom,2006,1,30,51,134,119,13,-9,7.7,16.8,16.1,43.5,5.0,2013
+Joel Przybilla,MIL,33,7-1,245,Minnesota,USA,2000,1,9,12,2,21,4,-34,6.3,24.2,5.6,20.5,8.0,2013
+Johan Petro,ATL,27,7-0,247,None,France,2005,1,25,31,108,112,16,-13,9.3,23.0,17.5,46.8,7.6,2013
+John Henson,MIL,22,6-11,220,North Carolina,USA,2012,1,14,63,380,297,31,-2,12.5,21.0,21.6,49.7,6.3,2013
+John Jenkins,ATL,22,6-4,215,Vanderbilt,USA,2012,1,23,61,374,94,56,-7,1.9,8.6,17.6,57.6,10.5,2013
+John Lucas III,TOR,30,5-11,165,Oklahoma State,USA,Undrafted,Undrafted,Undrafted,63,333,65,105,-5,0.9,7.6,20.3,48.3,23.3,2013
+John Salmons,SAC,33,6-6,207,Miami,USA,2002,1,26,76,672,207,226,-1,1.5,7.8,14.6,50.9,14.2,2013
+John Wall,WAS,22,6-4,195,Kentucky,USA,2010,1,1,49,906,196,373,2,2.2,10.0,28.6,52.1,40.7,2013
+Jon Leuer,MEM,24,6-10,228,Wisconsin,USA,2011,2,40,28,56,37,8,-17,6.5,14.3,15.3,48.5,7.4,2013
+Jonas Jerebko,DET,26,6-10,231,None,Sweden,2009,2,39,49,377,185,43,-5,7.6,14.6,19.5,53.1,7.9,2013
+Jonas Valanciunas,TOR,21,6-11,231,None,Lithuania,2011,1,5,62,554,372,45,-4,8.7,17.6,16.9,61.9,5.1,2013
+Jordan Crawford,BOS,24,6-4,195,Xavier,USA,2010,1,27,70,814,209,225,-5,2.6,9.4,24.8,51.2,24.4,2013
+Jordan Hamilton,DEN,22,6-7,220,Texas-Austin,USA,2011,1,26,40,208,95,23,-3,7.4,15.3,23.6,49.0,8.9,2013
+Jordan Hill,LAL,25,6-10,235,Arizona,USA,2009,1,8,29,194,166,13,-3,15.6,17.7,18.8,53.3,5.0,2013
+Jose Calderon,DET,31,6-3,211,None,Spain,Undrafted,Undrafted,Undrafted,73,826,176,518,-7,0.9,7.9,16.7,61.6,39.6,2013
+Josh Akognon,DAL,27,5-11,185,California State-Fullerton,USA,Undrafted,Undrafted,Undrafted,3,5,1,1,-23,0.0,12.5,22.2,62.5,20.0,2013
+Josh Childress,BKN,30,6-8,210,Stanford,USA,2004,1,6,14,14,15,5,-11,4.7,9.5,9.1,32.0,8.5,2013
+Josh Harrellson,MIA,24,6-10,275,Kentucky,USA,2011,2,45,6,10,7,0,-9,11.5,10.0,18.1,50.6,0.0,2013
+Josh Howard,MIN,33,6-7,210,Wake Forest,USA,2003,1,29,11,74,36,4,-5,4.3,13.1,19.6,45.0,3.4,2013
+Josh McRoberts,CHA,26,6-10,240,Duke,USA,2007,2,37,67,401,325,141,-8,6.4,16.2,13.6,52.7,15.1,2013
+Josh Selby,MEM,22,6-2,183,Kansas,USA,2011,2,49,10,20,5,4,-32,0.0,8.9,25.0,37.3,14.3,2013
+Josh Smith,ATL,27,6-9,225,None,USA,2004,1,17,76,1327,639,321,2,5.2,18.8,26.3,50.1,20.4,2013
+Jrue Holiday,PHI,23,6-4,205,UCLA,USA,2009,1,17,78,1383,329,625,-2,3.0,8.4,26.1,49.6,35.8,2013
+Julyan Stone,DEN,24,6-6,200,Texas-El Paso,USA,Undrafted,Undrafted,Undrafted,4,7,3,2,9,6.5,4.2,8.6,93.1,11.1,2013
+Justin Dentmon,DAL,27,5-11,185,Washington,USA,Undrafted,Undrafted,Undrafted,2,0,0,0,-41,0.0,0.0,20.0,0.0,0.0,2013
+Justin Holiday,PHI,24,6-6,185,Washington,USA,Undrafted,Undrafted,Undrafted,9,42,14,15,5,0.0,8.9,19.1,40.8,15.5,2013
+Juwan Howard,MIA,40,6-9,250,Michigan,USA,1994,1,5,7,21,8,6,-12,0.0,16.3,21.7,54.0,20.7,2013
+Kawhi Leonard,SAS,22,6-7,225,San Diego State,USA,2011,1,15,58,689,346,93,10,4.0,15.5,16.4,59.2,7.7,2013
+Keith Bogans,BKN,33,6-5,215,Kentucky,USA,2003,2,43,74,311,120,76,-1,1.2,7.6,11.0,53.3,8.4,2013
+Kemba Walker,CHA,23,6-1,184,Connecticut,USA,2011,1,9,82,1455,283,471,-9,2.0,8.2,25.0,51.7,30.8,2013
+Kendall Marshall,PHX,21,6-4,195,North Carolina,USA,2012,1,13,48,143,42,143,-14,0.6,5.6,13.1,45.5,30.6,2013
+Kendrick Perkins,OKC,28,6-10,270,None,USA,2003,1,27,78,330,466,111,11,6.4,16.9,10.5,47.9,7.8,2013
+Kenneth Faried,DEN,23,6-8,228,Morehead State,USA,2011,1,22,80,923,734,77,6,11.6,21.2,17.7,57.3,5.1,2013
+Kent Bazemore,GSW,23,6-5,201,Old Dominion,USA,Undrafted,Undrafted,Undrafted,61,123,22,22,1,1.9,5.5,24.7,45.4,15.9,2013
+Kenyon Martin,NYK,35,6-9,240,Cincinnati,USA,2000,1,1,18,129,95,8,9,8.7,15.1,14.1,58.3,3.0,2013
+Kevin Durant,OKC,24,6-9,235,Texas,USA,2007,1,2,81,2280,640,374,12,1.7,17.9,29.5,64.7,21.3,2013
+Kevin Garnett,BOS,37,6-11,253,None,USA,1995,1,5,68,1004,530,159,3,4.2,22.9,24.6,53.5,14.7,2013
+Kevin Jones,CLE,23,6-8,260,West Virginia,USA,Undrafted,Undrafted,Undrafted,32,95,78,10,9,10.7,12.7,15.5,41.8,4.3,2013
+Kevin Love,MIN,24,6-10,260,UCLA,USA,2008,1,5,18,330,252,42,0,9.4,30.6,27.3,45.8,11.7,2013
+Kevin Martin,OKC,30,6-7,185,Western Carolina,USA,2004,1,26,77,1077,178,106,11,1.7,6.6,20.6,60.8,8.1,2013
+Kevin Murphy,UTA,23,6-6,185,Tennessee Tech,USA,2012,2,47,17,15,4,2,-41,0.0,8.9,23.8,26.8,8.3,2013
+Kevin Seraphin,WAS,23,6-9,275,None,France,2010,1,17,79,721,346,57,-6,6.1,13.7,23.3,47.8,6.3,2013
+Keyon Dooling,MEM,33,6-3,195,Missouri,USA,2000,1,10,7,31,1,8,-13,0.0,1.2,15.3,64.4,19.5,2013
+Khris Middleton,DET,21,6-7,215,Texas A&M,USA,2012,2,39,27,165,50,28,2,0.9,10.9,15.6,53.2,8.5,2013
+Kim English,DET,24,6-6,200,Missouri,USA,2012,2,44,41,119,37,26,-7,1.9,7.6,15.2,47.7,9.7,2013
+Kirk Hinrich,CHI,32,6-4,190,Kansas,USA,2003,1,7,60,459,158,314,3,0.9,8.0,14.5,49.3,26.7,2013
+Klay Thompson,GSW,23,6-7,205,Washington State,USA,2011,1,11,82,1359,306,183,2,1.1,8.9,21.6,53.3,9.9,2013
+Kobe Bryant,LAL,34,6-6,205,None,USA,1996,1,13,78,2133,433,469,2,2.2,11.6,31.3,57.0,28.6,2013
+Kosta Koufos,DEN,24,7-0,265,Ohio State,USA,2008,1,23,81,648,562,32,9,11.5,19.2,14.3,58.5,2.6,2013
+Kris Humphries,BKN,28,6-9,235,Minnesota,USA,2004,1,14,65,375,365,32,-4,11.0,21.1,16.1,51.5,4.3,2013
+Kris Joseph,BKN,24,6-7,210,Syracuse,Canada,2012,2,51,10,9,7,1,-4,1.7,11.5,15.7,25.7,2.8,2013
+Kurt Thomas,NYK,40,6-9,240,TCU,USA,1995,1,10,39,97,89,21,-3,6.0,16.9,11.4,54.7,8.5,2013
+Kwame Brown,PHI,31,6-11,290,None,USA,2001,1,1,22,41,74,9,-7,8.4,19.9,9.3,45.2,5.1,2013
+Kyle Korver,ATL,32,6-7,212,Creighton,USA,2003,2,51,74,810,293,146,4,1.1,11.8,14.1,63.7,9.4,2013
+Kyle Lowry,TOR,27,6-0,205,Villanova,USA,2006,1,24,68,791,321,435,1,2.9,13.5,19.7,54.3,33.6,2013
+Kyle O'Quinn,ORL,23,6-10,240,Norfolk State,USA,2012,2,49,57,232,209,52,-4,10.0,21.4,17.3,53.5,12.2,2013
+Kyle Singler,DET,25,6-8,230,Duke,USA,2011,2,33,82,720,330,77,-4,4.8,10.1,15.5,51.7,5.3,2013
+Kyrie Irving,CLE,21,6-3,191,Duke,Australia,2011,1,1,59,1325,216,350,-5,1.6,9.5,29.2,55.3,31.5,2013
+LaMarcus Aldridge,POR,27,6-11,240,Texas-Austin,USA,2006,1,2,74,1560,670,192,-1,6.4,18.7,26.2,53.0,12.5,2013
+Lamar Odom,LAC,33,6-10,230,Rhode Island,USA,1999,1,4,82,330,480,142,10,7.5,22.2,13.0,42.9,12.8,2013
+Lance Stephenson,IND,22,6-5,228,Cincinnati,USA,2010,2,40,78,687,304,223,8,2.1,11.2,14.9,53.0,15.0,2013
+Lance Thomas,NOH,25,6-8,225,Duke,USA,Undrafted,Undrafted,Undrafted,59,149,115,17,-2,7.2,11.9,10.6,56.5,4.3,2013
+Landry Fields,TOR,25,6-7,215,Stanford,USA,2010,2,39,51,240,208,60,-1,6.0,14.9,12.6,48.7,8.4,2013
+Larry Sanders,MIL,24,6-11,235,Virginia Commonwealth,USA,2010,1,15,71,696,672,83,2,10.7,22.0,16.9,52.3,6.8,2013
+Lavoy Allen,PHI,24,6-9,255,Temple,USA,2011,2,50,79,455,395,73,-2,9.3,14.7,14.6,47.4,6.8,2013
+Lazar Hayward,MIN,26,6-6,225,Marquette,USA,2010,1,30,4,10,4,3,-37,0.0,14.3,18.1,39.6,20.0,2013
+LeBron James,MIA,28,6-8,250,None,USA,2003,1,1,76,2036,610,551,12,3.9,18.0,29.4,64.0,34.4,2013
+Leandro Barbosa,BOS,30,6-3,194,None,Brazil,2003,1,28,41,215,46,58,-4,1.6,7.3,20.2,50.9,20.1,2013
+Linas Kleiza,TOR,28,6-8,234,Missouri,Lithuania,2005,1,27,20,148,52,16,-7,2.6,11.7,21.7,46.0,7.7,2013
+Lou Amundson,NOH,30,6-9,225,UNLV,USA,Undrafted,Undrafted,Undrafted,39,76,106,11,-9,12.8,17.7,14.0,39.2,5.1,2013
+Lou Williams,ATL,26,6-1,175,None,USA,2005,2,45,39,551,80,139,0,0.7,6.5,23.2,55.5,21.8,2013
+Luc Mbah a Moute,MIL,26,6-8,230,UCLA,Cameroon,2008,2,37,58,387,256,55,-3,6.3,12.1,16.4,44.7,6.3,2013
+Luis Scola,PHX,33,6-9,245,None,Argentina,2002,2,55,82,1048,541,182,-5,7.1,18.5,22.8,51.6,14.0,2013
+Luke Babbitt,POR,24,6-9,225,Nevada-Reno,USA,2010,1,16,62,244,137,29,-2,2.0,17.1,15.6,50.9,6.4,2013
+Luke Ridnour,MIN,32,6-2,175,Oregon,USA,2003,1,14,82,939,206,311,-3,1.6,7.1,17.8,53.2,21.1,2013
+Luke Walton,CLE,33,6-8,235,Arizona,USA,2003,2,32,50,172,145,166,-3,4.5,13.5,13.1,45.3,28.6,2013
+Luke Zeller,PHX,26,6-11,245,Notre Dame,USA,Undrafted,Undrafted,Undrafted,16,19,10,3,-33,1.2,14.5,18.1,36.5,10.3,2013
+Luol Deng,CHI,28,6-9,220,Duke,United Kingdom,2004,1,7,75,1237,476,222,0,5.5,11.0,21.0,50.8,13.1,2013
+Maalik Wayns,LAC,22,6-1,195,Villanova,USA,Undrafted,Undrafted,Undrafted,27,76,7,27,-15,0.5,3.2,24.0,39.4,23.3,2013
+Malcolm Lee,MIN,23,6-5,200,UCLA,USA,2011,2,43,16,78,39,20,2,5.0,8.8,14.4,46.0,11.1,2013
+Malcolm Thomas,CHI,24,6-9,225,San Diego State,USA,Undrafted,Undrafted,Undrafted,12,15,16,4,34,8.3,20.0,13.3,55.5,10.0,2013
+Manu Ginobili,SAS,35,6-6,205,None,Argentina,1999,2,57,60,705,201,274,8,2.3,11.6,23.8,56.0,30.8,2013
+MarShon Brooks,BKN,24,6-5,200,Providence,USA,2011,1,25,73,394,104,76,-3,3.6,8.3,21.7,52.3,15.3,2013
+Marc Gasol,MEM,28,7-1,265,None,Spain,2007,2,48,80,1127,622,318,8,6.9,16.6,19.2,55.9,19.0,2013
+Marcin Gortat,PHX,29,6-11,240,None,Poland,2005,2,57,61,680,516,75,-5,6.7,21.7,17.1,54.3,6.3,2013
+Marco Belinelli,CHI,27,6-5,195,None,Italy,2007,1,18,73,702,140,148,-2,0.7,6.8,18.4,51.3,13.2,2013
+Marcus Camby,NYK,39,6-11,240,Massachusetts,USA,1996,1,2,24,42,80,14,-2,9.4,22.9,14.5,34.2,9.6,2013
+Marcus Morris Sr.,PHX,23,6-9,235,Kansas,USA,2011,1,14,77,596,277,62,-4,5.1,13.0,18.4,51.6,6.8,2013
+Marcus Thornton,SAC,26,6-4,205,Louisiana State,USA,2009,2,43,72,916,181,91,-8,2.8,8.0,22.8,55.2,9.2,2013
+Mario Chalmers,MIA,27,6-2,190,Kansas,USA,2008,2,34,77,666,171,273,14,1.1,7.6,15.6,57.6,18.3,2013
+Markieff Morris,PHX,23,6-10,245,Kansas,USA,2011,1,13,82,670,396,108,-9,7.0,15.4,19.5,47.3,9.5,2013
+Marquis Daniels,MIL,32,6-6,200,Auburn,USA,Undrafted,Undrafted,Undrafted,59,324,150,65,-4,3.9,9.5,16.6,43.2,9.6,2013
+Marquis Teague,CHI,20,6-2,190,Kentucky,USA,2012,1,29,48,99,44,63,0,0.8,11.0,18.2,41.2,27.5,2013
+Marreese Speights,CLE,25,6-10,255,Florida,USA,2008,1,16,79,658,386,47,-5,10.9,19.4,25.2,49.8,6.7,2013
+Martell Webster,WAS,26,6-7,230,None,USA,2005,1,6,76,869,294,143,0,2.4,11.0,16.6,60.1,10.5,2013
+Marvin Williams,UTA,27,6-9,245,North Carolina,USA,2005,1,2,73,529,263,77,-3,3.2,12.4,15.1,51.5,7.2,2013
+Matt Barnes,LAC,33,6-7,226,UCLA,USA,2002,2,45,80,822,366,123,7,5.6,12.4,17.6,56.6,9.5,2013
+Matt Bonner,SAS,33,6-10,235,Florida,USA,2003,2,45,68,288,129,36,4,2.9,11.6,12.4,60.9,5.7,2013
+Matt Carroll,CHA,32,6-6,212,Notre Dame,USA,Undrafted,Undrafted,Undrafted,1,0,0,1,-11,0.0,0.0,0.0,0.0,33.3,2013
+Maurice Harkless,ORL,20,6-8,210,St. John's (NY),USA,2012,1,15,76,625,335,50,-12,6.0,11.0,15.6,50.4,4.0,2013
+Metta World Peace,LAL,33,6-7,260,St. John's (NY),USA,1999,1,16,75,929,372,112,4,4.0,10.3,17.4,51.7,6.7,2013
+Meyers Leonard,POR,21,7-1,245,Illinois,USA,2012,1,11,69,377,255,33,-7,7.0,15.4,13.7,59.6,4.5,2013
+Michael Beasley,PHX,24,6-10,235,Kansas State,USA,2008,1,2,75,759,282,111,-12,3.3,15.3,27.0,46.2,12.5,2013
+Michael Kidd-Gilchrist,CHA,19,6-7,232,Kentucky,USA,2012,1,2,78,704,455,117,-7,6.3,17.0,17.5,50.6,9.6,2013
+Mickael Gelabale,MIN,30,6-7,215,None,France,2005,2,48,36,181,99,26,-5,5.1,10.8,11.5,60.5,6.4,2013
+Mickael Pietrus,TOR,31,6-6,215,None,France,2003,1,11,19,100,36,9,-4,1.4,9.0,14.9,47.2,3.4,2013
+Mike Conley,MEM,25,6-1,185,Ohio State,USA,2007,1,4,80,1168,225,487,10,1.6,7.0,20.5,54.9,28.7,2013
+Mike Dunleavy,MIL,32,6-9,230,Duke,USA,2002,1,3,75,785,291,145,2,1.5,13.0,17.0,57.7,11.4,2013
+Mike James,DAL,38,6-2,188,Duquesne,USA,Undrafted,Undrafted,Undrafted,45,273,72,139,2,1.1,7.1,18.0,48.1,23.6,2013
+Mike Miller,MIA,33,6-8,210,Florida,USA,2000,1,5,59,281,157,99,2,2.3,15.3,14.1,59.6,16.7,2013
+Mike Scott,ATL,24,6-8,237,Virginia,USA,2012,2,43,40,183,110,12,-6,10.3,18.8,22.6,53.3,5.8,2013
+Miles Plumlee,IND,24,6-11,255,Duke,USA,2012,1,26,14,13,22,2,-11,17.4,14.7,18.1,28.6,6.1,2013
+Mirza Teletovic,BKN,27,6-9,255,None,Bosnia and Herzegovina,Undrafted,Undrafted,Undrafted,53,188,95,23,-3,6.5,13.2,18.9,49.5,8.0,2013
+Mo Williams,UTA,30,6-1,195,Alabama,USA,2003,2,47,46,592,110,285,-3,1.7,6.5,22.0,51.9,32.4,2013
+Monta Ellis,MIL,27,6-3,185,None,USA,2005,2,40,82,1577,316,496,-1,1.3,8.7,25.8,49.3,26.2,2013
+Nando De Colo,SAS,26,6-5,200,None,France,2009,2,53,72,276,138,138,-2,2.7,12.2,16.7,53.0,23.3,2013
+Nate Robinson,CHI,29,5-9,180,Washington,USA,2005,1,21,82,1074,184,358,1,1.4,7.7,24.6,54.0,31.2,2013
+Nazr Mohammed,CHI,35,6-10,250,Kentucky,USA,1998,1,29,63,166,195,26,0,10.4,19.1,15.0,41.4,6.0,2013
+Nene,WAS,30,6-11,250,None,Brazil,2002,1,7,61,766,407,177,3,6.3,18.3,23.3,53.8,18.4,2013
+Nick Collison,OKC,32,6-10,255,Kansas,USA,2003,1,12,81,412,333,121,13,8.6,12.8,11.3,62.4,11.2,2013
+Nick Young,PHI,28,6-7,210,Southern California,USA,2007,1,16,59,628,130,84,-4,1.6,7.5,20.5,52.5,9.9,2013
+Nicolas Batum,POR,24,6-8,200,None,France,2008,1,25,73,1047,412,360,-2,3.6,11.5,17.8,56.6,19.9,2013
+Nikola Pekovic,MIN,27,6-11,290,None,Montenegro,2008,2,31,62,1011,545,53,-1,11.5,17.1,22.1,57.2,4.8,2013
+Nikola Vucevic,ORL,22,7-0,240,Southern California,Montenegro,2011,1,16,77,1008,917,143,-8,10.7,25.8,19.1,53.4,9.3,2013
+Nolan Smith,POR,24,6-2,185,Duke,USA,2011,1,21,40,110,27,35,-2,2.3,6.8,23.4,43.5,22.9,2013
+Norris Cole,MIA,24,6-2,175,Cleveland State,USA,2011,1,28,80,445,130,164,0,1.3,7.1,16.8,48.3,16.5,2013
+O.J. Mayo,DAL,25,6-4,210,Southern California,USA,2008,1,3,82,1255,291,361,-2,1.3,8.6,20.6,55.6,19.1,2013
+Omer Asik,HOU,26,7-0,255,None,Turkey,2008,2,36,82,832,956,75,6,11.6,26.9,16.2,55.8,4.6,2013
+Omri Casspi,CLE,25,6-9,225,None,Israel,2009,1,23,43,173,114,28,-3,3.6,19.3,17.7,48.6,9.3,2013
+Orlando Johnson,IND,24,6-5,220,Cal-Santa Barbara,USA,2012,2,36,51,203,110,47,-1,3.3,13.8,16.1,52.3,13.5,2013
+P.J. Tucker,PHX,28,6-6,224,Texas,USA,2006,2,35,79,506,350,109,-4,6.7,11.8,12.5,52.5,8.5,2013
+Pablo Prigioni,NYK,36,6-3,185,None,Argentina,Undrafted,Undrafted,Undrafted,78,275,143,236,7,3.4,8.9,11.7,59.5,27.7,2013
+Patrick Beverley,HOU,24,6-1,185,Arkansas,USA,2009,2,42,41,228,109,117,8,5.9,8.8,15.0,55.1,26.2,2013
+Patrick Patterson,SAC,24,6-9,235,Kentucky,USA,2010,1,14,71,737,337,81,1,6.5,12.7,17.3,56.6,7.0,2013
+Patty Mills,SAS,24,6-0,185,St. Mary's,Australia,2009,2,55,58,294,50,62,2,1.5,6.2,19.3,59.0,14.7,2013
+Pau Gasol,LAL,32,7-0,250,None,Spain,2001,1,3,49,673,421,200,3,7.0,17.7,20.3,51.2,19.6,2013
+Paul George,IND,23,6-8,221,Fresno State,USA,2010,1,10,79,1377,603,327,6,3.0,16.7,23.1,53.1,19.1,2013
+Paul Millsap,UTA,28,6-8,253,Louisiana Tech,USA,2006,2,47,78,1135,554,201,0,7.8,17.3,22.7,55.0,14.3,2013
+Paul Pierce,BOS,35,6-7,235,Kansas,USA,1998,1,10,77,1430,487,370,3,1.9,16.9,27.1,55.9,24.5,2013
+Perry Jones III,OKC,21,6-11,235,Baylor,USA,2012,1,28,38,88,62,10,-1,4.4,17.2,19.0,41.7,5.7,2013
+Quentin Richardson,NYK,33,6-6,228,DePaul,USA,2000,1,18,1,5,10,1,-16,12.2,14.3,19.7,21.0,5.6,2013
+Quincy Acy,TOR,22,6-7,225,Baylor,USA,2012,2,37,29,116,77,11,15,9.2,13.5,14.6,63.2,5.1,2013
+Quincy Miller,DEN,20,6-9,210,Baylor,USA,2012,2,38,7,9,2,3,-8,3.2,3.3,18.7,34.9,14.3,2013
+Quincy Pondexter,MEM,25,6-6,225,Washington,USA,2010,1,26,59,375,132,61,2,3.5,7.4,13.4,56.5,7.6,2013
+Rajon Rondo,BOS,27,6-1,186,Kentucky,USA,2006,1,21,38,522,212,420,-2,3.2,12.2,21.3,51.6,49.0,2013
+Ramon Sessions,CHA,27,6-3,190,Nevada-Reno,USA,2007,2,56,61,876,169,230,-12,1.5,8.7,24.7,52.9,26.6,2013
+Randy Foye,UTA,29,6-4,213,Villanova,USA,2006,1,7,82,882,127,167,-2,0.8,5.2,18.0,55.0,11.6,2013
+Rashard Lewis,MIA,33,6-10,230,None,USA,1998,2,32,55,285,121,30,-2,2.7,13.4,17.7,53.0,6.3,2013
+Rasheed Wallace,NYK,38,6-11,230,North Carolina,USA,1995,1,4,21,146,83,6,2,3.7,23.5,26.1,48.4,3.9,2013
+Ray Allen,MIA,37,6-5,205,Connecticut,USA,1996,1,5,79,863,217,135,4,2.2,9.0,18.5,59.9,10.7,2013
+Raymond Felton,NYK,29,6-1,205,North Carolina,USA,2005,1,5,68,948,194,372,6,2.2,6.7,21.7,50.5,26.0,2013
+Reggie Evans,BKN,33,6-8,245,Iowa,USA,Undrafted,Undrafted,Undrafted,80,363,888,43,4,13.6,34.2,11.0,50.6,3.2,2013
+Reggie Jackson,OKC,23,6-3,208,Boston College,USA,2011,1,24,70,374,166,122,7,2.3,14.2,18.3,53.1,20.4,2013
+Reggie Williams,CHA,26,6-6,205,Virginia Military Institute,USA,Undrafted,Undrafted,Undrafted,40,146,51,39,-4,1.9,11.0,18.6,51.7,18.0,2013
+Richard Hamilton,CHI,35,6-7,193,Connecticut,USA,1999,1,7,50,490,83,119,-2,1.5,6.3,24.4,48.1,19.1,2013
+Richard Jefferson,GSW,33,6-7,230,Arizona,USA,2001,1,13,56,176,84,31,2,0.9,13.4,13.9,55.2,8.8,2013
+Ricky Rubio,MIN,22,6-4,180,None,Spain,2009,1,5,57,608,229,418,-2,2.6,12.1,21.2,48.2,39.1,2013
+Robert Sacre,LAL,24,7-0,260,Gonzaga,Canada,2012,2,60,32,43,34,6,-15,4.1,12.3,12.7,40.7,4.5,2013
+Robin Lopez,NOH,25,7-0,255,Stanford,USA,2008,1,15,82,929,462,64,-3,11.1,12.0,19.6,57.3,5.1,2013
+Rodney Stuckey,DET,27,6-5,205,Eastern Washington,USA,2007,1,15,76,876,212,270,-7,2.0,8.3,20.6,50.5,20.8,2013
+Rodrigue Beaubois,DAL,25,6-2,185,None,France,2009,1,25,45,181,57,84,3,1.6,8.5,17.8,47.0,23.7,2013
+Roger Mason Jr.,NOH,32,6-5,205,Virginia,USA,2002,2,30,69,369,132,74,-2,1.0,10.7,13.7,57.0,9.1,2013
+Ronnie Brewer,OKC,28,6-7,225,Arkansas,USA,2006,1,14,60,179,140,50,0,4.8,12.1,12.4,41.6,8.7,2013
+Ronnie Price,POR,30,6-2,190,Utah Valley,USA,Undrafted,Undrafted,Undrafted,39,105,44,73,-5,2.7,6.5,14.8,40.2,23.2,2013
+Ronny Turiaf,LAC,30,6-10,249,Gonzaga,France,2005,2,37,65,121,152,35,2,6.7,14.3,9.7,48.5,7.4,2013
+Roy Hibbert,IND,26,7-2,280,Georgetown,USA,2008,1,17,79,937,656,113,9,13.3,15.1,22.3,48.9,8.3,2013
+Royal Ivey,PHI,31,6-4,200,Texas-Austin,USA,2004,2,37,53,170,57,32,-5,2.3,6.1,10.9,56.3,7.3,2013
+Rudy Gay,TOR,26,6-8,230,Connecticut,USA,2006,1,8,75,1366,461,202,4,3.8,14.2,26.4,49.4,13.4,2013
+Russell Westbrook,OKC,24,6-3,187,UCLA,USA,2008,1,4,82,1903,428,607,11,4.3,10.4,32.2,53.2,37.2,2013
+Ryan Anderson,NOH,25,6-10,240,California,USA,2008,1,21,81,1309,519,97,-5,7.7,14.4,23.7,54.8,7.1,2013
+Ryan Hollins,LAC,28,7-0,240,UCLA,USA,2006,2,50,60,206,139,11,4,8.1,12.8,13.3,67.4,2.7,2013
+Sam Young,IND,28,6-6,225,Pittsburgh,USA,2009,2,36,56,155,123,42,-6,3.7,12.7,12.9,46.4,10.7,2013
+Samardo Samuels,CLE,24,6-9,260,Louisville,Jamaica,Undrafted,Undrafted,Undrafted,18,58,28,8,-6,4.6,10.7,17.2,41.1,6.9,2013
+Samuel Dalembert,MIL,33,6-11,250,Seton Hall,Haiti,2001,1,26,47,313,276,21,-7,12.3,23.8,18.0,56.5,4.4,2013
+Sasha Pavlovic,POR,29,6-7,235,None,Montenegro,2003,1,19,39,103,56,32,-2,1.3,10.0,11.3,42.3,9.3,2013
+Scott Machado,GSW,23,6-1,205,Iona,USA,Undrafted,Undrafted,Undrafted,6,8,1,6,-21,0.0,5.0,28.8,58.1,60.0,2013
+Sebastian Telfair,TOR,28,6-0,170,None,USA,2004,1,13,59,331,84,153,-1,1.3,7.3,18.3,48.8,25.2,2013
+Serge Ibaka,OKC,23,6-10,235,None,Democratic Republic of the Congo,2008,1,24,80,1055,617,43,11,10.0,14.7,17.8,61.2,2.8,2013
+Shane Battier,MIA,34,6-8,225,Duke,USA,2001,1,6,72,472,165,72,10,2.4,7.1,10.9,62.3,5.8,2013
+Shannon Brown,PHX,27,6-4,210,Michigan State,USA,2006,1,25,59,617,149,108,-7,3.1,7.8,21.7,49.3,12.7,2013
+Shaun Livingston,CLE,27,6-7,175,None,USA,2004,1,4,66,417,158,215,-4,2.1,9.1,14.2,53.6,22.9,2013
+Shavlik Randolph,BOS,29,6-10,236,Duke,USA,Undrafted,Undrafted,Undrafted,16,67,70,4,3,15.1,22.0,15.8,55.9,2.8,2013
+Shawn Marion,DAL,35,6-7,228,UNLV,USA,1999,1,9,67,812,525,163,-4,7.5,18.5,18.5,55.3,12.9,2013
+Shelvin Mack,ATL,23,6-3,207,Butler,USA,2011,2,34,31,143,40,68,-5,0.8,8.8,18.3,53.7,26.5,2013
+Solomon Jones,NYK,28,6-10,245,South Florida,USA,2006,2,33,2,0,3,0,4,3.7,8.0,7.3,0.0,0.0,2013
+Spencer Hawes,PHI,25,7-1,245,Washington,USA,2007,1,10,82,905,590,183,-4,7.5,18.7,20.4,51.4,13.4,2013
+Stephen Curry,GSW,25,6-3,185,Davidson,USA,2009,1,7,78,1786,314,539,2,2.0,8.3,25.7,58.9,29.8,2013
+Stephen Jackson,SAS,35,6-8,220,Butler C.C. (KS),USA,1997,2,42,55,341,155,80,5,2.2,12.2,18.3,47.3,11.0,2013
+Steve Blake,LAL,33,6-3,172,Maryland,USA,2003,2,38,45,327,132,173,2,1.8,9.0,13.0,57.3,22.7,2013
+Steve Nash,LAL,39,6-3,178,Santa Clara,Canada,1996,1,15,50,636,142,333,0,1.6,7.0,17.1,60.5,31.0,2013
+Steve Novak,NYK,30,6-10,235,Marquette,USA,2006,2,32,81,535,152,35,6,1.1,8.9,12.6,60.2,3.2,2013
+Taj Gibson,CHI,28,6-9,225,Southern California,USA,2009,1,26,65,517,345,61,5,8.6,15.2,17.7,51.8,7.1,2013
+Tayshaun Prince,MEM,33,6-9,215,Kentucky,USA,2002,1,23,82,852,364,196,2,2.9,11.3,17.0,48.6,12.2,2013
+Terrel Harris,NOH,25,6-4,190,Oklahoma State,USA,Undrafted,Undrafted,Undrafted,20,15,26,9,0,3.2,16.9,16.4,23.9,10.7,2013
+Terrence Jones,HOU,21,6-9,252,Kentucky,USA,2012,1,18,19,104,65,15,-3,9.2,13.3,17.3,51.2,9.0,2013
+Terrence Ross,TOR,22,6-6,195,Washington,USA,2012,1,8,73,467,144,53,-3,2.8,9.3,19.1,49.1,7.3,2013
+Terrence Williams,BOS,26,6-6,220,Louisville,USA,2009,1,11,24,110,44,38,-1,1.3,12.2,18.2,51.8,19.0,2013
+Thabo Sefolosha,OKC,29,6-7,215,None,Switzerland,2006,1,13,81,613,317,125,12,2.9,10.8,11.2,61.7,8.0,2013
+Thaddeus Young,PHI,25,6-8,235,Georgia Tech,USA,2007,1,12,76,1127,571,125,0,7.0,15.1,19.7,54.1,7.8,2013
+Thomas Robinson,HOU,22,6-10,237,Kansas,USA,2012,1,5,70,333,315,46,-7,11.1,18.8,18.7,45.1,7.3,2013
+Tiago Splitter,SAS,28,6-11,240,None,Brazil,2007,1,28,81,838,515,130,10,8.1,17.8,17.9,60.9,9.9,2013
+Tim Duncan,SAS,37,6-11,255,Wake Forest,US Virgin Islands,1997,1,1,69,1227,686,184,10,6.7,25.8,27.6,55.4,15.1,2013
+Tim Ohlbrecht,HOU,24,6-11,255,None,Germany,Undrafted,Undrafted,Undrafted,3,3,1,1,-30,0.0,9.1,25.9,43.6,25.0,2013
+Timofey Mozgov,DEN,26,7-1,250,None,Russia,Undrafted,Undrafted,Undrafted,41,108,107,9,-10,13.1,14.1,14.1,54.9,3.9,2013
+Tobias Harris,ORL,20,6-8,226,Tennessee,USA,2011,1,19,55,603,287,69,-7,5.3,17.0,21.6,52.7,8.7,2013
+Toney Douglas,SAC,27,6-2,185,Florida State,USA,2009,1,29,71,534,138,151,4,2.6,8.1,19.1,53.1,17.6,2013
+Tony Allen,MEM,31,6-4,213,Oklahoma State,USA,2004,1,25,79,705,363,98,7,5.9,12.2,17.7,48.9,7.6,2013
+Tony Parker,SAS,31,6-2,185,None,France,2001,1,28,66,1341,198,499,10,0.9,8.1,27.6,58.8,39.6,2013
+Tony Wroten,MEM,20,6-6,208,Washington,USA,2012,1,25,35,91,28,43,-9,4.6,5.6,20.4,46.1,26.2,2013
+Tornike Shengelia,BKN,21,6-9,240,None,Georgia,2012,2,54,19,30,23,3,4,9.0,16.5,17.9,49.9,5.0,2013
+Travis Outlaw,SAC,28,6-9,207,None,USA,2003,1,23,38,200,61,21,-3,3.6,9.5,21.6,50.0,7.9,2013
+Trevor Ariza,WAS,28,6-8,210,UCLA,USA,2004,2,43,56,530,266,113,-1,2.9,14.7,17.4,53.8,13.2,2013
+Trevor Booker,WAS,25,6-8,240,Clemson,USA,2010,1,23,48,256,239,40,-9,10.5,16.3,14.3,50.9,7.9,2013
+Tristan Thompson,CLE,22,6-9,227,Texas-Austin,Canada,2011,1,4,82,957,773,108,-5,11.4,19.6,18.1,51.6,6.9,2013
+Troy Murphy,DAL,33,6-11,245,Notre Dame,USA,2001,1,14,14,65,49,7,-4,2.7,15.8,13.1,49.4,4.5,2013
+Ty Lawson,DEN,25,5-11,195,North Carolina,USA,2009,1,18,73,1216,198,501,5,1.4,6.3,21.9,54.9,29.5,2013
+Tyler Hansbrough,IND,27,6-9,250,North Carolina,USA,2009,1,13,81,568,373,36,-1,11.0,15.0,19.8,52.7,5.0,2013
+Tyler Honeycutt,SAC,22,6-8,188,UCLA,USA,2011,2,35,9,8,10,2,-14,7.5,22.6,20.5,33.7,11.1,2013
+Tyler Zeller,CLE,23,7-0,250,North Carolina,USA,2012,1,17,77,610,438,96,-6,7.4,14.5,15.7,48.6,7.5,2013
+Tyreke Evans,SAC,23,6-6,220,Memphis,USA,2009,1,4,65,987,287,229,-5,2.8,12.1,22.3,55.8,19.0,2013
+Tyrus Thomas,CHA,26,6-10,225,Louisiana State,USA,2006,1,4,26,125,60,19,-11,4.3,12.2,20.6,41.8,9.4,2013
+Tyshawn Taylor,BKN,23,6-3,185,Kansas,USA,2012,2,41,38,85,18,21,-15,1.0,7.8,24.9,43.0,18.1,2013
+Tyson Chandler,NYK,30,7-1,240,None,USA,2001,1,2,66,689,703,62,6,12.6,21.7,12.6,67.1,4.4,2013
+Udonis Haslem,MIA,33,6-8,235,Florida,USA,Undrafted,Undrafted,Undrafted,75,290,404,38,11,8.2,22.9,10.5,53.5,3.7,2013
+Viacheslav Kravtsov,DET,25,6-11,247,None,Ukraine,Undrafted,Undrafted,Undrafted,25,77,45,9,-4,10.8,9.9,15.0,61.8,6.2,2013
+Victor Claver,POR,24,6-9,224,None,Spain,2009,1,22,49,187,119,43,-6,3.9,11.9,13.7,46.2,7.9,2013
+Vince Carter,DAL,36,6-6,220,North Carolina,USA,1998,1,5,81,1088,334,194,5,2.9,12.7,22.3,57.1,14.8,2013
+Vladimir Radmanovic,CHI,32,6-10,235,None,Serbia,2001,1,12,25,33,28,8,-12,6.4,13.5,15.8,37.2,9.9,2013
+Wayne Ellington,CLE,25,6-4,200,North Carolina,USA,2009,1,28,78,614,166,104,0,1.5,8.6,16.5,54.6,10.0,2013
+Wesley Johnson,PHX,25,6-7,215,Syracuse,USA,2010,1,4,50,399,123,34,-12,2.1,10.7,20.6,48.5,6.1,2013
+Wesley Matthews,POR,26,6-5,220,Marquette,USA,Undrafted,Undrafted,Undrafted,69,1022,191,174,-2,1.5,6.8,18.8,57.4,11.5,2013
+Will Barton,POR,22,6-5,170,Memphis,USA,2012,2,40,73,295,145,58,-12,3.9,13.2,19.8,43.7,11.3,2013
+Will Bynum,DET,30,6-0,185,Georgia Tech,USA,Undrafted,Undrafted,Undrafted,65,636,97,231,-8,2.3,6.0,25.8,53.2,34.1,2013
+Will Conroy,MIN,30,6-2,195,Washington,USA,Undrafted,Undrafted,Undrafted,4,1,1,0,-97,3.3,0.0,20.8,5.1,0.0,2013
+Willie Green,LAC,31,6-3,201,Detroit,USA,2003,2,41,72,450,97,55,4,1.5,7.4,16.6,56.2,7.0,2013
+Wilson Chandler,DEN,26,6-8,225,DePaul,USA,2007,1,23,43,560,218,58,9,4.3,15.1,22.4,55.6,8.2,2013
+Xavier Henry,NOH,22,6-6,220,Kansas,USA,2010,1,12,50,194,90,13,-12,3.3,12.9,16.9,48.1,3.6,2013
+Zach Randolph,MEM,31,6-9,260,Michigan State,USA,2001,1,19,76,1169,854,108,6,12.0,22.6,22.7,50.6,7.3,2013
+Zaza Pachulia,ATL,29,6-11,275,None,Georgia,2003,2,42,52,306,336,79,-1,12.2,18.6,14.2,53.4,10.7,2013
